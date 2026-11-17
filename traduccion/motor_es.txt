@@ -1,0 +1,313 @@
+# Textos de motor EN ESPAÑOL (traducción de Claude para araubi, 2026) de La Geste d'Artillac (B033h-BB88h). Formato: tools/motor_textos.py
+
+== lb033h
+{#02}
+@6,2 {46}{4C}Prepara la cinta  {41}{4D}Hénerim
+@8,8 {4C}{46}¿Código?  {41}
+
+== lb070h
+@2,4 {4D}{45}F{4C}{43}uerza
+@4,4 {4D}{45}D{4C}{43}estreza
+@6,4 {4D}{45}S{4C}{43}uerte
+@8,4 {4D}{45}I{4C}{43}nteligencia
+@10,4 {4D}{45}V{4C}{43}oluntad
+@12,4 {4D}{45}C{4C}{43}arisma
+@14,4 {4D}{45}H{4C}{43}abilidad
+@16,4 {4D}{45}D{4C}{43}efensa
+
+== lb111h
+@2,18 {46}{4D}
+
+== lb119h
+@20,5 {4C}{43}(enter) para confirmar
+
+== lb135h
+{#03}
+@20,5 {4C}{41}Busco |
+
+== lb149h abierta
+{#03}
+@20,5 {41}{4C}He encontrado |
+
+== lb15fh abierta
+ |
+
+== lb160h
+     |
+
+== lb166h abierta
+ |
+
+== lb167h
+     |
+
+== lb16dh
+{#03}
+@20,5 {41}{4C}Descarto |
+
+== lb17fh
+{#03}
+@20,5 {41}Error de cinta
+
+== lb195h
+{43}{4C}
+@2,5 1
+@2,13 2
+@2,21 3
+@9,5 4
+@9,21 5
+@16,5 6
+@16,13 7
+@16,21 8{46}
+@3,5 Volver
+@4,7 al
+@6,5 Futuro{4D}
+@4,13 Conti-
+@6,14 nuará
+@5,22 Bazar
+@12,6 Publi
+@12,22 G a g
+@18,6 Cario
+@20,7 Tipo
+@18,16 Tu
+@20,14 Salud
+@18,23 A la
+@20,23 Mesa
+--
+@19,1 {41}{4F}{#16}-
+@22,1 {#16}/
+--
+{#03}
+@20,5 {4C}canto siguiente.
+
+== lb255h
+{#03}
+@19,5 {4C}{45}Dejas
+@20,5 {43}
+
+== lb26dh
+{#03}
+@19,5 {4C}{45}Tomas
+@20,5 {43}
+
+== lb284h
+{#03}
+@20,6 {4C}{43}Regresas a la Gesta.
+
+== lb2a7h
+{#02}
+@6,2 {4C}{46}Prepara la cinta  {4D}{41}Cantos
+@8,2 {4C}{46}colocada en  {41}
+
+== lb2edh
+{#03}
+@20,6 {4C}{41}Y la Gesta continúa...
+
+== lb30dh
+{#03}
+@20,5 {4C}{41}Característica a 0
+
+== lb32bh
+{#03}
+@20,5 {4C}{41}Puntos de vida a 0
+--
+@3,3 {4F}{41}E{4C}{46}scoge :
+@6,3 {4F}1{4C}{45}. abandonar la Gesta
+@9,3 {4F}2{4C}{45}. Regreso al Futuro
+
+== lb398h
+@6,4 {45}Peso : |
+
+== lb3a6h
+{#03}
+@19,8 {4C}¡Vamos! Un Artillac
+@20,8 nunca se separa
+@21,9 de un objeto así.
+
+== lb3ebh
+{#03}
+@19,7 {4C}¡vaya, ese objeto no te
+@21,7 serviría de nada!
+
+== lb420h
+{#03}
+@19,7 {4C}{41}¡imposible, irías
+@21,11 demasiado cargado!
+
+== lb450h
+@3,2 {4F}{41}S{46}{4D}i tú{4C} quisieras medir la
+@5,2 vida en unidades, el loco
+@7,2 te gritaría: "¡{41}
+
+== lb4adh
+ {46}puntos
+@9,2 de salud!". {4E}{41}P{4C}{46}ero el sabio
+@11,2 te diría con dulzura que el
+@13,2 espejuelo de la ilusión ha
+@15,2 cazado más de una alondra...
+
+== lb540h
+@9,4 {4D}{45}Tienes {43}
+
+== lb558h
+ {45}raciones
+
+== lb561h
+{#03}
+@20,12 {4C}Comes
+
+== lb571h
+{#03}
+@19,9 {4C}{43}¡No te queda nada
+@21,13 que comer!
+
+== lb59bh
+{#03}
+@19,9 {4C}{43}¡Ya has comido
+@20,11 bastante!
+
+== lb5c6h
+@3,3 {4F}{45}la
+@3,11 {43}G{45}esta
+@7,3 {45}d'
+@7,11 {43}A{45}rtillac
+@11,3 {45}es
+@11,11 {43}G{45}enial
+@14,5 {46}{4C}y aún no conoces más
+@15,5 {46}que el primer cuento...
+
+== lb644h
+@3,3 {4F}{41}L{43}{4D}a {4F}G{4D}esta d'{4F}A{4D}rtillac{4D}
+@7,6 {45}un poema arco iris
+@11,5 de cuentos maravillosos
+@15,3 {4F}{41}L{43}{4D}a {4F}G{4D}esta d'{4F}A{4D}rtillac
+--
+{#02}
+@3,3 {4E}{46}u{4C}na {4E}e{4C}popeya {4E}f{4C}eérica
+@4,9 compuesta por{43}
+@7,8 André el Cuentista
+@9,7 François el Soñador
+@11,6 Philippe el Juglar
+@13,6 Thierry el Comediante
+@15,2 {46}y la compañía del {43}Armadillo
+--
+@20,5 {4C}{41}la eternidad no espera...
+
+== lb7a9h
+{#02}
+@3,2 {44}{4F}L{4D}a {41}Gesta{4C} {44}perdió a su Héroe.
+@6,5 {4E}S{44}{4C}olo la resurrección
+@9,6 permitirá cantar
+@12,6 de nuevo la epopeya{46}
+@15,4 {4D}de Hénerim d'Artillac.
+
+== lb848h
+{#03}
+@19,5 {4C}{41}¡tu cariotipo te reserva
+@21,10 una sorpresa!
+
+== lb87ch
+{#03}
+@19,6 {4C}{41}harto vana es la hazaña
+@21,5 en que dejas la salud...
+
+== codigo_panos abierta
+PANOS
+
+== lb8c1h
+el gran retrato
+@21,5 de tu padre
+--
+la armadura
+--
+el escudo
+--
+unos puñados
+@21,5 de mantillo
+--
+la cuerda y el garfio
+--
+la cantimplora
+--
+la maza de armas
+--
+la espada
+--
+la antorcha y el pedernal
+--
+la maza de plata
+--
+el medallón
+--
+el candelabro de cobre
+--
+un candelabro de plata
+--
+la redoma
+--
+la cantimplora
+--
+el cirio
+--
+la estatuilla de piedra
+--
+la llave de oro
+--
+la redoma de ácido
+--
+el fruto del sok-sok
+--
+el saco de semillas
+--
+la semilla de sok-sok
+--
+las bayas negras
+--
+quince cequíes
+@21,5 y nueve sueldos
+--
+--
+los miembros momificados
+--
+un cofrecillo vacío
+--
+el rosario
+--
+el espejo
+--
+un ramo de claveles
+--
+una muleta
+--
+--
+los miembros momificados
+--
+--
+un candelabro de plata
+--
+--
+el arco y las flechas
+--
+--
+el collar de perlas
+--
+--
+la estatua de la Virgen
+--
+--
+veinte escudos
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+la máscara
+--
+diecinueve escudos
+--
+

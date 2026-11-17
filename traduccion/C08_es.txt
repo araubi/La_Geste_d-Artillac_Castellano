@@ -1,0 +1,659 @@
+# Canto 8 de La Geste d'Artillac EN ESPAÑOL (traducción de Claude para araubi, 2026). Formato: tools/canto.py
+#canto 8
+
+== P1
+@2,34 {50}{41}{4D}2 9{4C}
+@3,4 {51}{40}{4F}L{50}{43}{4D}os muros{4C} de esta sala{4C}
+@5,4 {50}{43}amplifican la Voz de la{4C}
+@7,4 {50}{43}Gesta... {51}{40}{4E}E{50}{43}{4C}l saco de tela{4C}
+@9,3 {50}{43}lleva la siguiente etiqueta{4C}
+@11,12 {50}{41}SEMILLAS{4C}
+@13,4 {50}{41}maíz rojo - 10 penantes{4C}
+@15,4 {50}{41}sok-sok - 1 ejemplar {50}{43}.{4C}
+
+== P2
+@2,2 {51}{40}{4E}N{52}{41}{4C}o es el primer barril que {4C}
+@3,2 {52}{44}                            {4C}
+@4,2 {52}{44}     {52}{41}da el mejor vino.{52}{44}      {4C}
+@6,2 {53}{44} {51}{40}{4E}E{53}{44}{4C}l veloz murciélago hindú {4C}
+@7,2 {53}{44}                            {4C}
+@8,2 {53}{44}comía feliz cardillo y kiwi.{4C}
+@9,2 {53}{44}                            {4C}
+@10,2 {53}{44}La cigüeña tocaba el saxofón{4C}
+@11,2 {53}{44}                            {4C}
+@12,2 {53}{44}detrás del palenque de paja.{4C}
+@13,2 {53}{44}                            {4C}
+@14,2 {53}{44} Jovencillo emponzoñado de  {4C}
+@15,2 {53}{44}                            {4C}
+@16,2 {53}{44}whisky, ¡qué figura exhibe! {4C}
+
+== P3
+@3,3 {51}{40}{4F}E{50}{42}{4D}l saco{4C} contiene varios{4C}
+@5,3 {50}{42}penantes de pequeñas{4C}
+@7,3 {50}{42}semillas rojas, y otra{4C}
+@9,8 {50}{42}semilla gruesa y dura,{4C}
+@10,24 {53}{40}a{4C}
+@11,10 {50}{42}en forma de  {53}{40}l l{4C}
+@12,22 {53}{40}m   m{4C}
+@13,22 {53}{40}e   e{4C}
+@14,22 {53}{40}n   n{4C}
+@15,23 {53}{40}dra{50}{42}.{4C}
+
+== P4
+@3,7 {57}{44}b{50}{44} {57}{44}r{50}{44} {57}{44}i{50}{44} {57}{44}l{50}{44} {57}{44}l{50}{44} {57}{44}a{4C}
+@4,5 {51}{40}{4F}L{50}{43}{4D}a{4C}   {57}{44}luz{50}{44}   {50}{43}se vuelve{4C}
+@5,7 {57}{44}b{50}{44} {57}{44}r{50}{44} {57}{44}i{50}{44} {57}{44}l{50}{44} {57}{44}l{50}{44} {57}{44}a{4C}
+@10,3 {50}{43}más intensa y el calor{4C}
+@15,7 {50}{43}más insoportable.{4C}
+
+== P5
+@5,5 {51}{40}{4F}L{50}{43}{4D}a luz{4C} cada vez más{4C}
+@7,7 {50}{43}intensa y el calor{4C}
+@9,5 {50}{43}casi insoportable{4C}
+@11,6 {50}{43}te obligan a salir{4C}
+@13,10 {50}{43}de la sala.{4C}
+
+== P6
+@3,6 {51}{40}{4F}L{50}{47}{4D}as semillas{4C} germinan{4C}
+@5,4 {50}{47}rápidamente y los brotes{4C}
+@7,3 {50}{47}alcanzan unos pocos{4C}
+@9,3 {50}{47}centímetros. {51}{40}{4E}D{50}{47}{4C}e pronto, un{4C}
+@11,4 {51}{47}velo{4C}
+@11,13 {50}{47}rojo nubla{4C}
+@12,5 {51}{47}velo{4C}
+@13,6 {51}{47}velo{4C}
+@13,16 {50}{47}tu vista.{4C}
+@14,7 {51}{47}velo{4C}
+
+== P7
+@3,3 {51}{40}{4F}P{50}{42}{4D}ronto{4C} ya no puedes{4C}
+@6,4 {50}{42}moverte. {51}{40}{4E}M{50}{42}{4C}uy deprisa,{4C}
+@9,4 {50}{42}tu cuerpo reseco adopta{4C}
+@11,24 {52}{41}egu{4C}
+@12,5 {50}{42}el aspecto de una{4C}
+@12,23 {52}{41}l{4C}
+@12,27 {52}{41}m{4C}
+@13,28 {52}{41}b{4C}
+@14,27 {52}{41}r{4C}
+@15,5 {50}{42}vieja y muy seca.{4C}
+@15,26 {52}{41}e{4C}
+
+== P8
+@3,4 {51}{40}{4F}T{50}{43}{4D}u estómago{4C} se revuelve{4C}
+@5,4 {50}{43}al instante contra la{4C}
+@7,3 {50}{43}semilla, de una sequedad{4C}
+@9,3 {50}{43}poco común, que absorbe{4C}
+@11,2 {50}{43}poco a poco toda tu agua{4C}
+@13,3 {50}{43}desde dentro. {51}{40}{4E}E{50}{43}{4C}l {51}{47}{4E}f{4C}lujo{50}{43} de{4C}
+@15,2 {50}{43}tu sangre se seca primero.{4C}
+
+== P9
+@3,3 {51}{40}{4F}L{50}{42}{4D}a semilla{4C} es tan dura{4C}
+@5,5 {50}{42}que te rompes un diente.{4C}
+@7,4 {51}{40}{4E}I{50}{42}{4C}mposible tragarla,{4C}
+@9,3 {50}{42}sobre todo con tanta sed,{4C}
+@11,3 {50}{42}y el sabor ácido que nace{4C}
+@13,2 {50}{42}en tu  {51}{47}o c{50}{42}  te revuelve{4C}
+@14,8 {51}{47}b{4C}
+@14,12 {51}{47}a{4C}
+@15,9 {51}{47}o c{4C}
+@15,14 {50}{42}el estómago.{4C}
+
+== P10
+@2,15 {54}{46}j{4C}
+@3,2 {51}{40}{4F}L{50}{45}{4D}as bayas{4C}  {54}{46}u{50}{46} {54}{46}u{50}{45}   calman{4C}
+@4,14 {54}{46}g{50}{46} {54}{46}g{4C}
+@5,13 {54}{46}o{4C}
+@5,17 {54}{46}o{4C}
+@6,13 {54}{46}s{4C}
+@6,17 {54}{46}s{4C}
+@7,3 {50}{45}tu sed.{4C}
+@7,13 {54}{46}a{4C}
+@7,17 {54}{46}a{4C}
+@8,14 {54}{46}sss{4C}
+@11,2 {51}{40}{4E}T{50}{45}{4C}us heridas se cierran,{4C}
+@13,11 {50}{45}y te{4C}
+@15,6 {50}{45}sientes en plena forma.{4C}
+
+== P11
+@3,2 {51}{40}{4F}E{50}{42}{4D}n{4C} la sala de la cúpula,{4C}
+@5,5 {50}{42}un muro de {53}{41}l{53}{47}l{50}{41} {53}{47}ll{50}{42} corta el{4C}
+@6,17 {53}{41}ll{50}{41} {53}{41}l{4C}
+@7,2 {50}{42}pasillo N-E,  {53}{41}a{50}{41} {51}{43}aa{50}{41} {53}{41}a{50}{42}  y una{4C}
+@8,17 {53}{41}m{50}{41} {53}{41}mm{50}{41} {53}{41}m{4C}
+@9,2 {50}{42}bruma{4C}
+@9,16 {51}{43}m{53}{41}m{50}{41} {53}{41}mmm{50}{42}   verde{4C}
+@10,16 {51}{43}aa{53}{41}a{51}{43}aaa{4C}
+@11,5 {50}{42}llena el{4C}
+@11,18 {51}{46}sss{4C}
+@11,23 {50}{42}pasillo{4C}
+@13,2 {50}{42}oeste. {51}{40}{4E}P{50}{42}{4C}or cierto, hace{4C}
+@15,2 {50}{42}mucho que no duermes.{4C}
+
+== P12
+@3,6 {51}{40}{4F}E{50}{43}{4D}l jugo{4C} de la planta{4C}
+@5,4 {50}{43}atraviesa{4C}
+@5,17 {50}{43}tu cuerpo{4C}
+@6,14 {53}{41}c{4C}
+@7,6 {50}{43}como{4C}
+@7,15 {53}{41}c{4C}
+@8,16 {53}{41}h{4C}
+@9,4 {50}{43}una {53}{41}{4E}flecha{50}{43}{4C}  de vida{4C}
+@10,16 {53}{41}h{4C}
+@11,15 {53}{41}c{4C}
+@12,14 {53}{41}c{4C}
+@14,6 {50}{43}y calma   tu sed.{4C}
+
+== P13
+@2,18 {57}{40}c{4C}
+@2,27 {57}{40}c{4C}
+@3,19 {57}{40}u{4C}
+@3,26 {57}{40}u{4C}
+@4,20 {57}{40}e{4C}
+@4,25 {57}{40}e{4C}
+@5,2 {51}{40}{4F}D{50}{44}{4D}os pequeños{4C}
+@5,21 {57}{40}r{4C}
+@5,24 {57}{40}r{4C}
+@6,21 {57}{40}nnnn{4C}
+@7,2 {50}{44}te perforan pronto{4C}
+@7,22 {57}{40}oo{4C}
+@8,22 {57}{40}ss{4C}
+@9,3 {50}{44}la frente, mientras tu{4C}
+@11,2 {50}{44}cuerpo se hace más esbelto.{4C}
+@13,2 {51}{40}{4E}A{50}{44}{4C}bandonas tu armadura,{4C}
+@15,4 {50}{44}ahora demasiado grande.{4C}
+
+== P14
+@3,5 {51}{40}{4F}D{50}{42}{4D}os pequeños cuernos{4C}
+@6,2 {50}{42}{4D}te perforan la frente,{4C}
+@9,3 {50}{42}{4D}mientras tus ropas,{4C}
+@12,2 {50}{42}{4D}demasiado holgadas, flotan{4C}
+@15,2 {50}{42}{4D}sobre tu cuerpo esbelto.{4C}
+
+== P15
+@2,7 {57}{40}a{4C}
+@3,7 {57}{40}r{4C}
+@4,2 {51}{40}{4F}L{50}{47}{4D}a{50}{40}{4C}  {57}{40}u{50}{47} , en la sala,{4C}
+@5,7 {57}{40}t{4C}
+@6,7 {57}{40}a{4C}
+@6,11 {50}{47}sigue subiendo.{4C}
+@7,7 {51}{47}r{4C}
+@8,7 {51}{47}e{4C}
+@8,11 {51}{40}{4E}M{50}{47}{4C}ás vale{4C}
+@9,7 {51}{47}p{4C}
+@10,6 {51}{47}mmm{4C}
+@10,11 {50}{47}salir ahora{4C}
+@11,6 {51}{47}eee{4C}
+@12,7 {51}{47}t{4C}
+@12,11 {50}{47}por el pasillo.{4C}
+
+== P16
+@3,7 {51}{40}{4F}A{50}{46}{4D} tu alrededor,{4C}
+@5,7 {50}{46}calma y silencio{4C}
+@7,3 {50}{46}bordean tu último lecho.{4C}
+@9,6 {51}{40}{4E}L{50}{46}{4C}os Dioses, ante{4C}
+@11,3 {50}{46}tu candor adormecido,{4C}
+@13,4 {50}{46}deciden dejarte{4C}
+@15,7 {54}{46}s o ñ a r{50}{46}...{4C}
+
+== P17
+@2,34 {50}{41}{4D}3 1{4C}
+@3,2 {51}{40}{4F}C{50}{47}{4D}uando{4C}
+@6,9 {50}{47}{4F}pintura{4C}
+@10,12 {50}{47}{4D}rima con{4C}
+@14,10 {50}{47}{4F}lectura{4C}.{4C}
+
+== P18
+@3,3 {51}{40}{4F}E{50}{47}{4D}n tu blasón, ¡ninguna{4C}
+@7,6 {50}{47}{4D}salamandra, Hénerim!{4C}
+@11,5 {51}{40}{4F}P{50}{47}{4D}ero, quizá, dentro de{4C}
+@15,2 {50}{47}{4D}un instante, cual Fénix...{4C}
+
+== P19
+@2,34 {50}{41}{4D}4 7{4C}
+@3,5 {51}{40}{4F}A{50}{46}{4D}ntes{4C} de dormirte,{4C}
+@5,5 {50}{46}abres el      {51}{43}Misal{4C}
+@6,19 {51}{43}Misal{4C}
+@7,19 {51}{43}Misal{4C}
+@8,19 {51}{43}Misal{4C}
+@9,2 {51}{40}{4E}P{50}{46}{4C}or la mañana{4C}
+@9,19 {51}{43}Misal{50}{46}...{4C}
+@11,2 {50}{46}te despiertas lleno de una{4C}
+@13,3 {50}{46}energía nueva. {51}{40}{4E}A{50}{46}{4C} tu{4C}
+@15,3 {50}{46}alrededor, nada se movió.{4C}
+
+== P20
+@2,15 {54}{47}ños{4C}
+@3,13 {54}{47}e{4C}
+@4,4 {51}{40}{4F}U{50}{44}{4D}nos{4C}  {54}{47}su{4C}
+@4,18 {50}{44}de manantial{4C}
+@6,3 {50}{44}agitan tu noche. {51}{40}{4E}A{50}{44}{4C}l alba{4C}
+@8,4 {50}{44}el calor te despierta y{4C}
+@10,5 {50}{44}aviva tu sed. {51}{40}{4E}S{50}{44}{4C}ales{4C}
+@12,5 {50}{44}fuera por la puerta de{4C}
+@14,3 {50}{44}piedra, ahora abierta.{4C}
+
+== P21
+@3,2 {51}{40}{4F}E{4C}
+@4,4 {50}{41}b{4D}r{4C}
+@5,4 {50}{41}{4D}i{4C}
+@6,6 {50}{41}{4D}o{50}{47}{4C}  de cansancio, llegas{4C}
+@9,5 {50}{47}a una puerta de piedra,{4C}
+@12,5 {50}{47}abierta de par en par{4C}
+@15,9 {50}{47}al exterior.{4C}
+
+== P22
+@3,2 {51}{40}{4F}A{50}{46}{4D}l final{4C} de la galería, una{4C}
+@5,4 {50}{46}puerta de piedra, abierta,{4C}
+@7,3 {50}{46}da al exterior. {51}{40}{4E}E{50}{46}{4C}l{4C}
+@9,4 {53}{41}ss{4C}
+@9,8 {50}{46}que trepa al cielo{4C}
+@10,3 {53}{41}oooo{4C}
+@11,3 {53}{41}llll{4C}
+@11,10 {50}{46}y la falta de agua{4C}
+@12,4 {53}{41}ss{4C}
+@13,9 {50}{46}te hacen{4C}
+@15,5 {50}{46}agobiante el calor.{4C}
+
+== P23
+@2,34 {50}{41}{4D}4 7{4C}
+@3,5 {51}{40}{4F}A{50}{46}{4D}ntes{4C} de dormirte,{4C}
+@5,5 {50}{46}abres el      {51}{43}Misal{4C}
+@6,19 {51}{43}Misal{4C}
+@7,19 {51}{43}Misal{4C}
+@8,19 {51}{43}Misal{4C}
+@9,2 {51}{40}{4E}P{50}{46}{4C}or la mañana{4C}
+@9,19 {51}{43}Misal{50}{46}...{4C}
+@11,2 {50}{46}te despiertas lleno de una{4C}
+@13,3 {50}{46}energía nueva. {51}{40}{4E}A{50}{46}{4C} tu{4C}
+@15,3 {50}{46}alrededor, nada se movió.{4C}
+
+== P24
+@3,2 {51}{40}{4F}A{50}{42}{4D}l cabo{4C} de unos minutos,{4C}
+@5,3 {50}{42}distingues el sonido de una{4C}
+@7,2 {54}{46}ccc{4C}
+@7,12 {50}{42}que brota de un{4C}
+@8,4 {54}{46}aaa{4C}
+@9,6 {54}{46}sss{4C}
+@9,12 {50}{42}barranco cercano.{4C}
+@10,8 {54}{46}ccc{4C}
+@11,10 {54}{46}aaa{4C}
+@12,12 {54}{46}ddd{4C}
+@13,14 {54}{46}aaa{50}{42},{4C}
+
+== P25
+@3,4 {51}{40}{4F}U{50}{43}{4D}na hilera{4C} de toneles,{4C}
+@5,3 {50}{43}con la base enterrada en el{4C}
+@7,4 {50}{43}suelo,  e s c o l t a   el{4C}
+@9,8 {51}{40}{4E}mmm{57}{41}mm{51}{47}mmm{4C}
+@10,9 {51}{47}{4E}uuuu{51}{40}uu{57}{40}u{4C}
+@10,26 {50}{43}a{4C}
+@11,8 {57}{40}{4E}r{57}{41}rr{51}{40}rrr{51}{47}rr{4C}
+@12,9 {51}{40}{4E}ooo{51}{47}oo{57}{41}oo{4C}
+@13,8 {50}{43}todo lo largo.{4C}
+
+== P26
+@2,20 {53}{40}ttt{4C}
+@3,4 {51}{40}{4F}U{50}{46}{4D}n seto{4C} de{4C}
+@3,19 {53}{40}o{4C}
+@3,23 {53}{40}o{50}{43},{4C}
+@4,19 {53}{40}nnnnn{4C}
+@5,7 {50}{46}con el fondo{4C}
+@5,19 {53}{40}e{4C}
+@5,23 {53}{40}e{4C}
+@6,19 {53}{40}l{4C}
+@6,23 {53}{40}l{4C}
+@7,4 {50}{46}enterrado en{4C}
+@7,19 {53}{40}e{4C}
+@7,23 {53}{40}e{4C}
+@8,19 {53}{40}s{4C}
+@8,23 {53}{40}s{4C}
+@9,4 {50}{46}el suelo, sigue{4C}
+@9,20 {53}{40}sss{4C}
+@11,6 {50}{46}el muro. {51}{40}{4E}U{50}{46}{4C}no de ellos{4C}
+@13,6 {50}{46}muestra una tapadera{4C}
+@15,11 {50}{46}rota.{4C}
+
+== P27
+@3,2 {51}{40}{4F}L{50}{42}{4D}os{4C} pasillos {57}{40}oeste{50}{42}, {57}{40}norte{50}{42} y{4C}
+@6,2 {57}{40}{4E}este{50}{42}{4C} están, por orden:{4C}
+@9,2 {50}{42}invadido por bruma verdosa,{4C}
+@12,5 {50}{42}bloqueado por un muro de{4C}
+@15,7 {50}{42}llamas y libre.{4C}
+
+== P28
+@2,26 {52}{40}sss{4C}
+@3,2 {51}{40}{4F}C{50}{47}{4D}omo{4C} por magia, las{4C}
+@3,26 {52}{40}e{4C}
+@3,28 {52}{40}e{4C}
+@4,25 {52}{40}m{4C}
+@4,29 {52}{40}m{4C}
+@5,2 {50}{47}germinan al instante,{4C}
+@5,25 {52}{40}i{4C}
+@5,29 {52}{40}i{4C}
+@6,25 {52}{40}l{4C}
+@6,29 {52}{40}l{4C}
+@7,4 {50}{47}los brotes alcanzan{4C}
+@7,25 {52}{40}l{4C}
+@7,29 {52}{40}l{4C}
+@8,26 {52}{40}a{4C}
+@8,28 {52}{40}a{4C}
+@9,4 {50}{47}unos centímetros.{4C}
+@9,26 {52}{40}sss{4C}
+@11,3 {51}{40}{4E}L{50}{47}{4C}a sed te obliga a{4C}
+@13,2 {50}{47}comerlas y te sientes{4C}
+@15,2 {50}{47}entonces fresco y en forma.{4C}
+
+== P29
+@3,3 {51}{40}{4F}P{50}{45}{4D}ese al{4C} intenso frío de{4C}
+@6,17 {54}{47}jo{4C}
+@6,22 {54}{47}jo{4C}
+@7,4 {50}{45}fuera, tus  {54}{47}o  s{50}{45} {54}{47}o  s{50}{45}  se{4C}
+@8,17 {54}{47}jo{4C}
+@8,22 {54}{47}jo{4C}
+@11,5 {50}{45}cierran: ¡debes dormir{4C}
+@15,11 {50}{45}ahora!{4C}
+
+== P30
+@3,5 {51}{40}{4F}B{50}{44}{4D}ajas{4C} con esfuerzo{4C}
+@5,3 {50}{44}al fondo del torrente,{4C}
+@7,4 {50}{44}ayudándote de pies y{4C}
+@9,5 {50}{44}manos. {51}{40}{4E}E{50}{44}{4C}l ruido cesa{4C}
+@11,5 {50}{44}de pronto y las rocas{4C}
+@13,9 {50}{47}rue{4C}
+@14,12 {50}{47}d{4C}
+@15,13 {50}{47}an{50}{44} hacia ti.{4C}
+
+== P31
+@3,5 {51}{40}{4F}A{50}{41}{4D}yer,{4C} cuando lo abriste,{4C}
+@6,6 {50}{41}este tonel contenía{4C}
+@9,4 {50}{41}una veintena{4C}
+@12,11 {50}{41}de  {53}{40}es{4C}
+@13,14 {53}{40}cudo{4C}
+@14,14 {53}{40}sesc{4C}
+@15,15 {53}{40}ud{50}{41}...{4C}
+
+== P32
+@3,2 {51}{40}{4F}T{50}{46}{4D}e empeñas,{4C} al límite{4C}
+@5,2 {50}{46}del agotamiento, hasta que{4C}
+@7,2 {50}{46}la tapadera cede por fin.{4C}
+@9,2 {51}{40}{4E}P{50}{46}{4C}ero el  {53}{41}ss{50}{46}  dispara sus{4C}
+@10,11 {53}{41}oooo{4C}
+@11,2 {50}{46}fuegos y{50}{41} {53}{41}llll{50}{41}  {50}{46}te desplomas{4C}
+@12,12 {53}{41}ss{4C}
+@13,2 {50}{46}con la cabeza{4C}
+@13,16 {50}{46}contra los{4C}
+@15,7 {50}{46}escudos del tonel.{4C}
+
+== P33
+@5,3 {51}{40}{4F}U{50}{46}{4D}no{4C} de los toneles está{4C}
+@7,8 {50}{46}abierto, con{4C}
+@9,12 {53}{40}pader{4C}
+@10,11 {53}{40}a{4C}
+@10,14 {53}{40}d{4C}
+@10,17 {53}{40}a{4C}
+@11,6 {50}{46}la  {53}{40}tapadera{50}{46}  rota.{4C}
+@12,11 {53}{40}a{4C}
+@12,14 {53}{40}d{4C}
+@12,17 {53}{40}a{4C}
+@13,12 {53}{40}pader{4C}
+
+== P34
+@2,5 {51}{40}{4F}E{50}{43}{4D}l tonel{4C} estalla al{4C}
+@4,4 {50}{43}primer golpe. {51}{40}{4E}U{50}{43}{4C}n volcán{4C}
+@6,6 {50}{43}se enciende en ti y{4C}
+@8,2 {50}{43}luego dispersa tus restos{4C}
+@10,3 {50}{43}por el cielo, como el polen{4C}
+@12,4 {50}{43}que en primavera{4C}
+@12,21 {54}{47}n{50}{43} {57}{44}t{4C}
+@13,20 {54}{42}e{4C}
+@14,4 {50}{43}viaja en el{4C}
+@14,18 {52}{44}{4E}v{50}{43}{4C} {54}{42}i{50}{43} {54}{47}e{50}{43} {57}{44}n{50}{43} {54}{42}t{50}{43} {54}{47}o{4C}
+@15,20 {54}{42}e{4C}
+@16,21 {54}{47}n{50}{43} {57}{44}t{50}{43}...{4C}
+
+== P35
+@2,15 {50}{43}ntiene{4C}
+@3,14 {50}{43}o{4C}
+@4,3 {51}{40}{4F}E{50}{42}{4D}l tonel{4C}{50}{43} c{4C}
+@4,18 {50}{42}tierra{4C}
+@5,14 {50}{43}o{4C}
+@6,15 {50}{43}ntiene{4C}
+@8,3 {50}{42}que, como por magia,{4C}
+@12,3 {50}{42}ignora el intenso calor{4C}
+@15,8 {50}{42}y sigue fresca.{4C}
+
+== P36
+@3,4 {51}{40}{4F}E{50}{42}{4D}n{4C} un último esfuerzo,{4C}
+@5,23 {53}{40}pader{4C}
+@6,22 {53}{40}a{4C}
+@6,25 {53}{40}d{4C}
+@6,28 {53}{40}a{4C}
+@7,4 {50}{42}rompes la{4C}
+@7,21 {53}{40}tapadera{4C}
+@8,22 {53}{40}a{4C}
+@8,25 {53}{40}d{4C}
+@8,28 {53}{40}a{4C}
+@9,23 {53}{40}pader{4C}
+@11,2 {50}{42}del tonel, que contiene{4C}
+@15,6 {50}{42}tierra muy fresca.{4C}
+
+== P37
+@3,2 {51}{40}{4F}L{50}{46}{4D}a sed{4C} te hace perder{4C}
+@5,2 {50}{46}toda mesura{4C}
+@5,23 {51}{47}uer{4C}
+@6,24 {51}{47}e{4C}
+@7,2 {50}{46}y la tierra que{4C}
+@7,22 {51}{47}cuerpo{4C}
+@8,22 {51}{47}c{4C}
+@8,24 {51}{47}e{4C}
+@8,26 {51}{47}p{4C}
+@9,2 {50}{46}tragas hasta{4C}
+@9,22 {51}{47}c{4C}
+@9,24 {51}{47}e{4C}
+@9,26 {51}{47}p{4C}
+@10,24 {51}{47}e{4C}
+@11,5 {50}{46}la asfixia{4C}
+@11,23 {51}{47}uer{4C}
+@12,23 {51}{47}u{4C}
+@12,25 {51}{47}r{4C}
+@13,7 {50}{46}llena poco a{4C}
+@13,23 {51}{47}u{4C}
+@13,25 {51}{47}r{4C}
+@14,23 {51}{47}u{4C}
+@14,25 {51}{47}r{4C}
+@15,7 {50}{46}poco tu{4C}
+@15,22 {51}{47}cu{4C}
+@15,25 {51}{47}po{50}{46}...{4C}
+
+== P38
+@3,3 {51}{40}{4F}T{50}{44}{4D}e hundes{4C} en el abismo{4C}
+@6,2 {50}{44}negro del sueño. {51}{40}{4E}E{50}{44}{4C}l Destino{4C}
+@9,2 {50}{44}te confundió con la {56}{41}Bella{4C}
+@12,2 {56}{41}Durmiente{50}{44}, pero es{4C}
+@15,7 {50}{44}para la eternidad...{4C}
+
+== P39
+@3,4 {51}{40}{4F}E{50}{42}{4D}l suelo{4C} exhala de{4C}
+@5,3 {50}{42}pronto vapores y la amnesia{4C}
+@7,10 {50}{42}te sorprende.{4C}
+@9,5 {51}{40}{4E}S{50}{42}{4C}olo los {51}{44}{4E}Dioses{50}{42}{4C}{4C}
+@11,8 {50}{42}serán testigos de{4C}
+@13,4 {50}{42}la larga errancia de un{4C}
+@15,4 {50}{42}cuerpo sin memoria...{4C}
+
+== P40
+@3,2 {51}{40}{4F}E{50}{42}{4D}xhausto,{4C} duermes ahí.{4C}
+@5,2 {51}{40}{4E}A{50}{42}{4C}l alba, un muro de{4C}
+@5,24 {53}{41}l{4C}
+@5,26 {53}{41}lll{4C}
+@6,23 {51}{43}ll{4C}
+@6,26 {51}{43}l{53}{41}l{4C}
+@7,4 {50}{42}corta el pasillo{4C}
+@7,23 {53}{41}a{4C}
+@7,25 {53}{41}aa{4C}
+@7,28 {53}{41}a{4C}
+@8,22 {53}{41}m{4C}
+@8,24 {51}{43}m{4C}
+@8,26 {53}{41}m{51}{43}m{53}{47}m{4C}
+@9,2 {50}{42}situado al nordeste,{4C}
+@9,23 {51}{43}m{53}{47}m{51}{43}mm{4C}
+@9,28 {51}{43}m{4C}
+@10,24 {54}{46}aaa{53}{47}a{54}{46}a{4C}
+@11,3 {50}{42}mientras una bruma{4C}
+@11,25 {54}{41}sss{4C}
+@13,11 {50}{42}verde llena{4C}
+@15,9 {50}{42}el pasillo oeste.{4C}
+
+== X
+{#00}{#05}{#1F}{#06}{#1F}{#07}{#1F}{#08}{#1F}{#09}{#1F}{#47}
+
+== O1
+@19,15 {50}{44}lees{4C}
+@21,8 la placa de mármol
+
+== O2
+@20,11 {50}{42}abres el saco{4C}
+
+== O3
+@20,10 {50}{43}haces otra cosa{4C}
+
+== O4
+@19,8 {50}{42}siembras maíz rojo{4C}
+@20,11 en el suelo,
+@21,7 en un poco de tierra
+
+== O5
+@19,7 {50}{43}entierras la semilla{4C}
+@20,7 de sok-sok en un poco
+@21,6 de tierra, en el suelo
+
+== O6
+@19,8 {50}{44}comes unas cuantas{4C}
+@21,7 semillas de maíz rojo
+
+== O7
+@19,15 {50}{42}comes{4C}
+@21,7 la semilla de sok-sok
+
+== O8
+@19,15 {50}{45}comes{4C}
+@21,9 las bayas negras
+
+== O9
+@20,9 {50}{46}sales de la sala{4C}
+
+== O10
+@19,14 {50}{47}vuelves{4C}
+@21,10 bajo la cúpula
+
+== O11
+@20,8 {50}{42}te comes los brotes{4C}
+
+== O12
+@20,14 {50}{45}esperas{4C}
+
+== O13
+@19,12 {50}{44}te adentras{4C}
+@21,12 en la bruma
+
+== O14
+@19,9 {50}{45}te diriges hacia{4C}
+@20,6 el norte por el pasillo
+@21,8 situado al noroeste
+
+== O15
+@19,12 {50}{43}atraviesas{4C}
+@21,9 el muro de llamas
+
+== O16
+@20,6 {50}{46}duermes bajo la cúpula{4C}
+
+== O17
+@19,11 {50}{45}duermes en la{4C}
+@21,8 galería de cuadros
+
+== O18
+@20,14 {50}{42}avanzas{4C}
+
+== O19
+@19,10 {50}{46}te adentras en{4C}
+@20,8 la estepa en busca
+@21,14 de agua
+
+== O20
+@19,14 {50}{43}rodeas{4C}
+@20,12 el edificio
+@21,10 por la derecha
+
+== O21
+@19,14 {50}{42}rodeas{4C}
+@20,12 el edificio
+@21,9 por la izquierda
+
+== O22
+@20,11 {50}{47}sales afuera{4C}
+
+== O23
+@20,15 {50}{44}bajas{4C}
+
+== O24
+@19,9 {50}{46}sales afuera por{4C}
+@20,8 el pasillo situado
+@21,12 al noroeste
+
+== O25
+@19,12 {50}{42}te acercas{4C}
+@21,8 a los otros toneles
+
+== O26
+@19,10 {50}{45}intentas abrir{4C}
+@21,10 el primer tonel
+
+== O27
+@19,12 {50}{43}te acercas{4C}
+@21,9 al tonel abierto
+
+== O28
+@19,10 {50}{42}intentas abrir{4C}
+@21,12 otro tonel
+
+== O29
+@20,8 {50}{44}te diriges al este{4C}
+
+== O30
+@20,6 {50}{43}vuelves sobre tus pasos{4C}
+
+== O31
+@19,10 {50}{44}buscas un lugar{4C}
+@20,11 donde dormir,
+@21,8 cerca del edificio
+
+== O32
+@19,6 {50}{47}te alejas del edificio{4C}
+@21,5 y duermes en los arbustos
+
+== O33
+@20,5 {50}{43}llenas tu saco de escudos{4C}
+
+== O34
+@19,9 {50}{42}hundes la cabeza{4C}
+@20,8 en la tierra, para
+@21,9 lamer su humedad
+
+== O35
+@19,9 {50}{43}siembras en ella{4C}
+@20,11 unas semillas
+@21,11 de maíz rojo
+
+== O36
+@20,13 {50}{47}la dejas{4C}
+
+== O37
+@19,15 {50}{43}coges{4C}
+@21,7 la semilla de sok-sok
+
+== O38
+
+== X
+{#1F}{#42}{#44}{#1B}{#51}{#1B}{#00}

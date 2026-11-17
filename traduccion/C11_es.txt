@@ -1,0 +1,698 @@
+# Canto 11 de La Geste d'Artillac EN ESPAÑOL (traducción de Claude para araubi, 2026). Formato: tools/canto.py
+#canto 11
+
+== P1
+@3,3 {51}{40}{4F}U{50}{42}{4D}n pequeño{4C} brote ha nacido{4C}
+@5,2 {50}{42}bajo la lluvia. {51}{40}{4E}E{50}{42}{4C}xaminas{4C}
+@7,3 {50}{42}el tallo verde oscuro y la{4C}
+@9,3 {50}{42}hoja de un color más{4C}
+@11,4 {50}{42}tierno, cuando un grito de{4C}
+@13,2 {50}{42}angustia de mujer rasga la{4C}
+@15,2 {50}{42}bruma y el tiempo detenido.{4C}
+
+== P2
+@3,2 {51}{40}{4F}L{50}{42}{4D}os{4C} pasillos {57}{40}oeste{50}{42}, {57}{40}norte{50}{42} y{4C}
+@6,2 {57}{40}{4E}este{50}{42}{4C} están, por orden:{4C}
+@9,2 {50}{42}invadido por bruma verdosa,{4C}
+@12,5 {50}{42}bloqueado por un muro de{4C}
+@15,7 {50}{42}llamas y libre.{4C}
+
+== P3
+@3,4 {51}{40}{4F}E{50}{42}{4D}l suelo{4C} exhala de{4C}
+@5,3 {50}{42}pronto vapores y la amnesia{4C}
+@7,10 {50}{42}te sorprende.{4C}
+@9,5 {51}{40}{4E}S{50}{42}{4C}olo los {51}{44}{4E}Dioses{50}{42}{4C}{4C}
+@11,8 {50}{42}serán testigos de{4C}
+@13,4 {50}{42}la larga errancia de un{4C}
+@15,4 {50}{42}cuerpo sin memoria...{4C}
+
+== P4
+@3,3 {51}{40}{4F}E{50}{47}{4D}n tu blasón, ¡ninguna{4C}
+@7,6 {50}{47}{4D}salamandra, Hénerim!{4C}
+@11,5 {51}{40}{4F}P{50}{47}{4D}ero, quizá, dentro de{4C}
+@15,2 {50}{47}{4D}un instante, cual Fénix...{4C}
+
+== P5
+@3,6 {51}{40}{4F}E{50}{43}{4D}l fruto,{4C} untuoso,{4C}
+@5,12 {52}{40}p{4C}
+@5,23 {53}{40}h{4C}
+@6,11 {52}{40}eee{4C}
+@6,22 {53}{40}u{50}{40} {53}{40}u{4C}
+@7,4 {50}{43}sin{4C}
+@7,11 {52}{40}ppp{4C}
+@7,17 {50}{43}ni{50}{40}  {53}{40}e{4C}
+@7,25 {53}{40}e{50}{43},{4C}
+@8,10 {52}{40}iiiii{4C}
+@8,21 {53}{40}s{4C}
+@8,25 {53}{40}s{4C}
+@9,10 {52}{40}ttttt{4C}
+@9,22 {53}{40}ooo{4C}
+@10,11 {52}{40}aaa{4C}
+@11,12 {52}{40}s{4C}
+@12,13 {50}{43}te proporciona{4C}
+@15,7 {50}{43}un rico alimento.{4C}
+
+== P6
+@4,8 {51}{40}{4F}U{50}{44}na bruma{4C}
+@9,14 {50}{44}{4F}muy{4C}
+@14,8 {50}{44}{4F}oscura...{4C}
+
+== P7
+@3,3 {51}{40}{4F}U{50}{43}{4D}na formidable{4C} explosión{4C}
+@5,4 {50}{43}resuena. {51}{40}{4E}D{50}{43}{4C}e tu boca{4C}
+@7,13 {54}{46}eeeeeeeee{4C}
+@8,13 {54}{46}s{50}{43} {54}{46}s{50}{43} {54}{46}s{50}{43} {54}{46}s{50}{43} {54}{46}s{4C}
+@9,13 {54}{46}c{50}{43} {54}{46}c{50}{43}   {54}{46}c{50}{43} {54}{46}c{4C}
+@10,4 {50}{43}fundida{4C}
+@10,13 {54}{46}a{50}{43} {54}{46}a{50}{43}   {54}{46}a{50}{43} {54}{46}a{50}{43}   una{4C}
+@11,13 {54}{46}p{50}{43} {54}{46}p{50}{43}   {54}{46}p{50}{43} {54}{46}p{4C}
+@12,13 {54}{46}aaaaaaaaa{4C}
+@15,3 {50}{43}sonrisa eterna y rígida...{4C}
+
+== P8
+@2,9 {51}{43}l{4C}
+@3,10 {51}{43}l{4C}
+@4,3 {51}{40}{4F}L{50}{43}{4D}a{4C} {53}{41}{4E}flecha{50}{43}{4C}  rebota{4C}
+@5,10 {51}{43}l{4C}
+@6,9 {51}{43}l{4C}
+@9,3 {50}{43}contra el cofre y se clava{4C}
+@14,8 {50}{43}en tu vientre.{4C}
+
+== P9
+@3,6 {51}{40}{4F}U{50}{44}{4D}na fuerza{4C} te impide{4C}
+@6,4 {50}{44}acercar la punta a la{4C}
+@7,14 {51}{44}ccc{4C}
+@8,13 {51}{44}e{4C}
+@8,17 {51}{44}e{4C}
+@9,14 {51}{44}r{4C}
+@9,16 {51}{44}r{4C}
+@10,14 {51}{44}r{4C}
+@10,16 {51}{44}r{4C}
+@11,14 {51}{44}a{4C}
+@11,16 {51}{44}a{4C}
+@12,14 {51}{44}d{4C}
+@12,16 {51}{44}dd{4C}
+@13,14 {51}{44}u{4C}
+@13,16 {51}{44}u{4C}
+@14,14 {51}{44}r{4C}
+@14,16 {51}{44}r{4C}
+@15,14 {51}{44}aaaa{50}{44}.{4C}
+
+== P10
+@2,34 {50}{41}{4D}3 4{4C}
+@3,5 {51}{40}{4F}E{50}{47}{4D}n esta{4C} sala redonda,{4C}
+@6,5 {50}{47}el {57}{40}eco{4C}
+@6,13 {57}{40}eco{50}{47}  {57}{40}co{50}{47}  {57}{40}o{4C}
+@9,5 {50}{47}de la Voz de la Gesta{4C}
+@12,9 {50}{47}se reflejaba{4C}
+@15,10 {50}{47}mil veces...{4C}
+
+== P11
+@4,3 {51}{40}{4F}L{50}{42}{4D}a bruma{4C} verde se acerca{4C}
+@8,3 {50}{42}y te{50}{40}   {53}{40}envuelve{4C}
+@9,10 {53}{40}en{4C}
+@9,16 {53}{40}ve{4C}
+@10,10 {53}{40}e{4C}
+@10,12 {53}{40}v{4C}
+@10,15 {53}{40}l{4C}
+@10,17 {53}{40}e{4C}
+@11,10 {53}{40}e{4C}
+@11,13 {53}{40}ue{4C}
+@11,17 {53}{40}e{4C}
+@12,10 {53}{40}e{4C}
+@12,17 {53}{40}e{4C}
+@13,10 {53}{40}e{4C}
+@13,17 {53}{40}e{4C}
+@14,10 {53}{40}envuelve{4C}
+@14,19 {50}{42}de nuevo.{4C}
+
+== P12
+@3,3 {51}{40}{4F}T{50}{44}{4D}e hundes{4C} en el abismo{4C}
+@6,2 {50}{44}negro del sueño. {51}{40}{4E}E{50}{44}{4C}l Destino{4C}
+@9,2 {50}{44}te confundió con la {56}{41}Bella{4C}
+@12,2 {56}{41}Durmiente{50}{44}, pero es{4C}
+@15,7 {50}{44}para la eternidad...{4C}
+
+== P13
+@3,3 {51}{40}{4F}U{50}{47}{4D}n{4C}
+@3,10 {51}{47}u{50}{47} {51}{47}ñ{50}{47} {51}{47}o{50}{47}   gigante{4C}
+@4,10 {51}{47}u{50}{47} {51}{47}ñ{50}{47} {51}{47}o{4C}
+@5,10 {51}{47}u{50}{47} {51}{47}ñ{50}{47} {51}{47}o{4C}
+@6,8 {51}{47}{4D}p{4C}
+@6,10 {51}{47}{4E}uñ{4C}o{4C}
+@6,19 {50}{47}surge,{4C}
+@7,8 {51}{47}{4E}puñ{4C}o{4C}
+@8,11 {51}{47}puño{4C}
+@9,11 {51}{47}puño{4C}
+@9,17 {50}{47}te desencaja{4C}
+@12,9 {50}{47}la mandíbula{4C}
+@15,6 {50}{47}y luego desaparece.{4C}
+
+== P14
+@2,34 {50}{41}{4D}3 4{4C}
+@3,5 {51}{40}{4F}E{50}{47}{4D}n esta{4C} sala redonda,{4C}
+@6,5 {50}{47}el {57}{40}eco{4C}
+@6,13 {57}{40}eco{50}{47}  {57}{40}co{50}{47}  {57}{40}o{4C}
+@9,5 {50}{47}de la Voz de la Gesta{4C}
+@12,9 {50}{47}se reflejaba{4C}
+@15,10 {50}{47}mil veces...{4C}
+
+== P15
+@3,6 {51}{40}{4F}L{50}{45}{4D}a flecha{4C} desaparece{4C}
+@6,7 {50}{45}hábilmente en la{4C}
+@7,15 {57}{40}ccc{4C}
+@8,14 {57}{40}e{4C}
+@8,18 {57}{40}e{4C}
+@9,15 {57}{40}r{4C}
+@9,17 {57}{40}r{4C}
+@10,15 {57}{40}r{4C}
+@10,17 {57}{40}r{4C}
+@11,15 {57}{40}a{4C}
+@11,17 {57}{40}a{4C}
+@12,15 {57}{40}d{4C}
+@12,17 {57}{40}ddd{4C}
+@13,15 {57}{40}u{4C}
+@13,17 {57}{40}u{4C}
+@14,15 {57}{40}r{4C}
+@14,18 {57}{40}r{4C}
+@15,15 {57}{40}aaaaa{50}{45}.{4C}
+
+== P16
+@3,8 {51}{40}{4F}T{50}{43}{4D}odo{4C} se desarrolla{4C}
+@5,2 {50}{43}perfectamente, pero el cofre{4C}
+@7,3 {50}{43}sigue cerrado. {51}{40}{4E}Q{50}{43}{4C}uizá la{4C}
+@9,2 {50}{43}tercera cerradura, con forma{4C}
+@11,5 {50}{43}de   {52}{40}ra{50}{43}   de sok-sok...{4C}
+@12,9 {52}{40}r{4C}
+@12,12 {52}{40}n{4C}
+@13,9 {52}{40}r{4C}
+@13,12 {52}{40}n{4C}
+@14,8 {52}{40}g{4C}
+@14,13 {52}{40}o{4C}
+@15,9 {52}{40}rano{4C}
+
+== P17
+@2,34 {50}{41}{4D}3 4{4C}
+@3,5 {51}{40}{4F}E{50}{47}{4D}n esta{4C} sala redonda,{4C}
+@6,5 {50}{47}el {57}{40}eco{4C}
+@6,13 {57}{40}eco{50}{47}  {57}{40}co{50}{47}  {57}{40}o{4C}
+@9,5 {50}{47}de la Voz de la Gesta{4C}
+@12,9 {50}{47}se reflejaba{4C}
+@15,10 {50}{47}mil veces...{4C}
+
+== P18
+@2,34 {50}{41}{4D}3 4{4C}
+@3,5 {51}{40}{4F}E{50}{47}{4D}n esta{4C} sala redonda,{4C}
+@6,5 {50}{47}el {57}{40}eco{4C}
+@6,13 {57}{40}eco{50}{47}  {57}{40}co{50}{47}  {57}{40}o{4C}
+@9,5 {50}{47}de la Voz de la Gesta{4C}
+@12,9 {50}{47}se reflejaba{4C}
+@15,10 {50}{47}mil veces...{4C}
+
+== P19
+@4,6 {51}{40}{4F}P{50}{47}{4D}resa{4C} de un violento{4C}
+@6,4 {50}{47}cólico, expulsas una{4C}
+@8,3 {50}{47}magnífica    {52}{40}s{50}{47}  de sok-sok.{4C}
+@9,15 {52}{40}e{50}{40} {52}{40}e{4C}
+@10,15 {52}{40}m{50}{40} {52}{40}m{4C}
+@11,4 {51}{40}{4E}L{50}{47}{4C}uego,{4C}
+@11,14 {52}{40}i{4C}
+@11,18 {52}{40}i{50}{47}  la{4C}
+@12,14 {52}{40}l{4C}
+@12,18 {52}{40}l{4C}
+@13,3 {50}{47}limpias{4C}
+@13,15 {52}{40}l{50}{40} {52}{40}l{50}{47}  y la{4C}
+@14,16 {52}{40}a{4C}
+@15,4 {50}{47}pones en la cerradura.{4C}
+
+== P20
+@3,5 {51}{40}{4F}L{50}{47}{4D}a pared{4C} superior{4C}
+@5,5 {50}{47}desaparece y deja ver,{4C}
+@7,4 {50}{47}en el interior del cofre,{4C}
+@9,10 {50}{47}un{4C}
+@9,20 {57}{40}aú{4C}
+@10,18 {57}{40}ataúd{4C}
+@11,8 {50}{47}y una{4C}
+@11,20 {57}{40}aú{4C}
+@12,20 {57}{40}aú{4C}
+@13,8 {50}{47}puerta{4C}
+@13,20 {57}{40}aú{4C}
+@14,18 {57}{40}ataúd{4C}
+@15,7 {50}{47}cerrada.{4C}
+@15,18 {57}{40}ataúd{4C}
+
+== P21
+@4,2 {51}{40}{4F}E{50}{47}{4D}ncuentras{4C} cuatro miembros{4C}
+@6,2 {50}{47}momificados. {51}{40}{4E}A{50}{47}{4C}l parecer,{4C}
+@8,2 {50}{47}esos  {55}{47}bbb{4C}
+@9,8 {55}{47}bbb{4C}
+@9,15 {50}{47}y piernas{4C}
+@10,9 {55}{47}r{4C}
+@11,9 {55}{47}a{4C}
+@12,9 {55}{47}z{4C}
+@12,13 {50}{47}pertenecían{4C}
+@13,8 {55}{47}so{4C}
+@15,8 {50}{47}a la misma persona.{4C}
+
+== P22
+@5,5 {51}{40}{4F}T{50}{44}{4D}ras{4C} la  {51}{44}puerta{4C}
+@6,15 {51}{44}puerta{4C}
+@7,15 {51}{44}puerta{4C}
+@8,15 {51}{44}puerta{4C}
+@9,15 {51}{44}puerta{4C}
+@14,5 {50}{44}reina una gran opacidad.{4C}
+
+== P23
+@3,3 {51}{40}{4F}U{50}{42}{4D}na mancha{4C} negra, como{4C}
+@5,4 {50}{42}una puerta, muere a tu{4C}
+@7,2 {50}{42}espalda, pero ya no volverás{4C}
+@9,2 {50}{42}a la estepa de Hustarg, pues{4C}
+@11,3 {50}{42}inmensas montañas ofrecen{4C}
+@13,5 {50}{42}ahora sus cimas eternas{4C}
+@15,10 {50}{42}a tu mirada.{4C}
+
+== P24
+@3,6 {51}{40}{4F}D{50}{41}{4D}e pronto, una fuerza{4C}
+@7,5 {50}{41}{4D}misteriosa guía tus{4C}
+@11,5 {50}{41}{4D}pasos y te empuja hacia{4C}
+@15,3 {50}{41}{4D}un rumbo desconocido...{4C}
+
+== P25
+@3,6 {51}{40}{4F}C{50}{43}{4D}aminas,{4C} como{4C}
+@5,5 {50}{43}hipnotizado, durante{4C}
+@7,4 {50}{43}muchos días. {51}{40}{4E}D{50}{43}{4C}ebes{4C}
+@9,2 {50}{43}combatir a menudo y{4C}
+@11,3 {50}{43}aceptar a la{4C}
+@12,20 {57}{40}{4D}mmmmm{4C}
+@13,3 {50}{43}como compañera{4C}
+@13,21 {57}{40}u{4C}
+@13,23 {57}{40}e{4C}
+@14,22 {57}{40}r{4C}
+@15,6 {50}{43}de viaje.{4C}
+@15,21 {57}{40}tet{4C}
+
+== P26
+@3,2 {51}{40}{4F}L{50}{45}{4D}legas{4C} un día ante{4C}
+@5,4 {50}{45}un  {57}{40}p{50}{45}  rocoso, con el{4C}
+@6,7 {57}{40}iii{4C}
+@7,6 {57}{40}ccccc{50}{40}  {50}{45}presentimiento de{4C}
+@8,5 {57}{40}ooooooo{4C}
+@9,2 {50}{45}tocar el fin de tu Búsqueda.{4C}
+@11,3 {51}{40}{4E}D{50}{45}{4C}istingues, al pie de{4C}
+@13,6 {50}{45}la pared, una estatua{4C}
+@15,7 {50}{45}sobre un pedestal.{4C}
+
+== P27
+@3,4 {51}{40}{4F}E{50}{41}{4D}n realidad,{4C} no es{4C}
+@3,28 {52}{40}{4D}p{4C}
+@5,2 {50}{41}una figura de piedra la{4C}
+@5,28 {52}{40}{4D}a{4C}
+@7,4 {50}{41}que te mira, sino tu{4C}
+@7,28 {52}{40}{4D}d{4C}
+@9,4 {51}{40}{4E}A{50}{41}{4C}mputado de sus cuatro{4C}
+@9,28 {52}{40}{4D}r{4C}
+@11,3 {50}{41}miembros, su cuerpo{4C}
+@11,28 {52}{40}e{4C}
+@13,5 {50}{41}inerte parece mantenido{4C}
+@15,4 {50}{41}vivo de forma artificial.{4C}
+
+== P28
+@3,4 {51}{40}{4F}L{50}{46}{4D}os miembros,{4C} como por{4C}
+@5,2 {50}{46}magia, ocupan su lugar,{4C}
+@7,9 {50}{46}y luego el rostro{4C}
+@9,2 {50}{46}de {51}{44}Urtan d'Artillac{50}{46} se anima{4C}
+@11,2 {50}{46}y te sonríe. {51}{40}{4E}U{50}{46}{4C}na voz que{4C}
+@13,4 {50}{46}conoces bien pronuncia{4C}
+@15,6 {50}{46}la palabra "{54}{41}GRACIAS{50}{46}"...{4C}
+
+== P29
+@2,34 {50}{41}{4D}5 2{4C}
+@3,2 {51}{40}{4F}P{50}{47}{4D}ero tu sueño{4C} acaba aquí{4C}
+@5,5 {50}{47}y ya no oyes nada{4C}
+@7,4 {50}{47}más. {51}{40}{4E}T{50}{47}{4C}e despiertas de{4C}
+@9,2 {50}{47}golpe, seguro ahora de{4C}
+@11,4 {50}{47}reencontrar pronto a tu{4C}
+@13,2 {50}{47}padre. {51}{40}{4E}A{50}{47}{4C}bres por{4C}
+@13,24 {51}{43}Bre{4C}
+@14,24 {51}{43}via{4C}
+@15,6 {50}{47}última vez el{4C}
+@15,24 {51}{43}rio{50}{47}...{4C}
+
+== P30
+@3,2 {51}{40}{4F}U{50}{47}{4D}n silencio{4C} total acompaña{4C}
+@5,3 {50}{47}tu vana búsqueda. {51}{40}{4E}A{50}{47}{4C}l{4C}
+@7,4 {50}{47}volver al edificio, te{4C}
+@9,6 {50}{47}metes en un lodazal.{4C}
+@11,4 {51}{40}{4E}L{50}{47}{4C}entamente,{4C}
+@13,2 {50}{47}ves el  {54}{46}{4E}i{54}{44}{4C} {54}{46}{4E}e{50}{47}{4C}  desaparecer.{4C}
+@14,7 {54}{46}{4E}c{4C}
+@14,15 {54}{46}{4E}l{4C}
+@15,11 {54}{46}{4E}o{4C}
+
+== P31
+@3,4 {51}{40}{4F}E{50}{46}{4D}l agua{4C} que bebes ahoga{4C}
+@5,6 {50}{46}pronto tus pulmones.{4C}
+@7,3 {51}{40}{4E}O{50}{46}{4C}jalá puedas, en una vida{4C}
+@9,6 {50}{46}próxima, conocer{4C}
+@11,4 {50}{46}la alegría despreocupada{4C}
+@13,4 {50}{46}de nuestros{4C}
+@13,16 {51}{47}p{50}{47} {51}{47}peces{4C}
+@14,4 {50}{46}hermanos{50}{47}    {51}{47}pe{51}{41}     {57}{41}o{51}{47}es{4C}
+@15,16 {51}{47}p{50}{47} {51}{47}peces{50}{46}...{4C}
+
+== P32
+@3,7 {51}{40}{4F}A{50}{46}{4D} tu alrededor,{4C}
+@5,7 {50}{46}calma y silencio{4C}
+@7,3 {50}{46}bordean tu último lecho.{4C}
+@9,6 {51}{40}{4E}L{50}{46}{4C}os Dioses, ante{4C}
+@11,3 {50}{46}tu candor adormecido,{4C}
+@13,4 {50}{46}deciden dejarte{4C}
+@15,7 {54}{46}s o ñ a r{50}{46}...{4C}
+
+== P33
+@2,34 {50}{41}{4D}4 4{4C}
+@3,5 {51}{40}{4F}C{50}{47}{4D}ercado{4C} solo por los{4C}
+@5,2 {50}{47}torrentes furiosos, tu única{4C}
+@7,5 {50}{47}distracción consiste{4C}
+@9,2 {50}{47}en leer, escribir y releer{4C}
+@11,6 {50}{47}algunas líneas del{4C}
+@13,13 {51}{43}Bre{4C}
+@14,13 {51}{43}via{4C}
+@15,13 {51}{43}rio{50}{47}...{4C}
+
+== P34
+@3,3 {51}{40}{4F}T{50}{44}{4D}e hundes{4C} en el abismo{4C}
+@6,2 {50}{44}negro del sueño. {51}{40}{4E}E{50}{44}{4C}l Destino{4C}
+@9,2 {50}{44}te confundió con la {56}{41}Bella{4C}
+@12,2 {56}{41}Durmiente{50}{44}, pero es{4C}
+@15,7 {50}{44}para la eternidad...{4C}
+
+== P35
+@3,4 {51}{40}{4F}T{50}{46}{4D}us{50}{45} {50}{46}dedos{50}{45}{4C} {50}{46}sienten{4C}
+@5,5 {50}{46}de pronto un violento{4C}
+@7,4 {50}{46}dolor, como pinchados por{4C}
+@9,2 {50}{46}una espina invisible.{4C}
+@11,4 {51}{40}{4E}U{50}{46}{4C}na{4C}
+@11,23 {51}{47}g{4C}
+@12,22 {51}{47}o o{4C}
+@13,5 {50}{46}de sangre asoma{4C}
+@13,21 {51}{47}t   t{4C}
+@14,21 {51}{47}t   t{4C}
+@15,5 {50}{46}en tu pulgar.{4C}
+@15,21 {51}{47}a   a{4C}
+@16,22 {51}{47}aaa{4C}
+
+== P36
+@3,3 {51}{40}{4F}U{50}{42}{4D}na mañana,{4C} la lluvia cesa{4C}
+@5,3 {50}{42}y el cielo, despejado por{4C}
+@7,2 {50}{42}una brisa cálida, descubre{4C}
+@9,3 {50}{42}un sol radiante. {51}{40}{4E}M{50}{42}{4C}uy{4C}
+@11,2 {50}{42}pronto, en lo alto del tallo{4C}
+@13,4 {50}{42}del sok-sok, una{50}{40} {53}{45}f{50}{44} {53}{45}o{50}{44} {53}{45}r{4C}
+@14,21 {55}{43}l{50}{43} {55}{43}o{50}{43} {55}{43}l{4C}
+@15,5 {50}{42}rosa se abre.{4C}
+@15,22 {55}{44}flo{4C}
+@16,23 {53}{40}r{4C}
+
+== P37
+@2,14 {51}{43}Bre{4C}
+@3,4 {51}{40}{4F}S{50}{43}{4D}olo{4C} el  {51}{43}via{50}{43}  atestigua{4C}
+@4,14 {51}{43}rio{4C}
+@9,9 {50}{43}el tiempo que{4C}
+@14,11 {54}{41}{4E}huye{50}{43}{4C}...{4C}
+
+== P38
+@3,2 {51}{40}{4F}L{50}{42}{4D}a flor{4C} se marchita deprisa{4C}
+@5,3 {50}{42}y luego, cuando el sol{4C}
+@7,4 {50}{42}alcanza el cenit, da{4C}
+@9,6 {50}{42}paso a un fruto{4C}
+@11,6 {50}{42}maduro, de color  {52}{40}mel{4C}
+@12,26 {53}{41}o{4C}
+@13,7 {50}{42}anaranjado, como{4C}
+@13,27 {53}{41}c{4C}
+@14,26 {53}{41}o{4C}
+@15,9 {50}{42}un gran{4C}
+@15,23 {53}{41}nót{50}{42}.{4C}
+
+== P39
+@3,3 {51}{40}{4F}I{50}{47}{4D}nmediatamente,{4C} el fruto{4C}
+@5,3 {50}{47}se pudre entre tus dedos{4C}
+@7,4 {50}{47}y, en tu{4C}
+@7,17 {57}{45}m{50}{47} {57}{45}a{50}{47} {57}{45}n{50}{47} {57}{45}o{4C}
+@8,17 {55}{47}m{50}{47} {55}{47}a{50}{47} {55}{47}n{50}{47} {55}{47}o{50}{47},{4C}
+@9,8 {50}{47}deja{4C}
+@9,17 {55}{47}m{50}{47} {55}{47}a{50}{47} {55}{47}n{50}{47} {55}{47}o{4C}
+@10,17 {55}{47}{4E}man{4C}o{4C}
+@11,9 {50}{47}paso{4C}
+@11,19 {55}{47}{4E}a{4C}n{4C}
+@13,3 {50}{47}a una sustancia apagada y{4C}
+@15,10 {50}{47}maloliente.{4C}
+
+== P40
+@3,2 {51}{40}{4F}C{50}{46}{4D}ae el día{4C} sobre{4C}
+@3,23 {51}{42}a{4C}
+@4,22 {51}{42}lan{4C}
+@5,23 {51}{42}a{4C}
+@6,2 {50}{46}la estepa y tu{4C}
+@6,23 {52}{40}a{50}{46} {52}{40}t{4C}
+@7,21 {52}{40}p{50}{46} {52}{40}an{4C}
+@8,22 {52}{40}la{4C}
+@9,7 {50}{46}de sok-sok,{4C}
+@9,23 {52}{40}a{50}{46} {52}{40}t{4C}
+@10,21 {52}{40}p{50}{46} {52}{40}an{4C}
+@11,22 {52}{40}la{4C}
+@12,3 {50}{46}en cuya cima{4C}
+@12,23 {52}{40}a{4C}
+@15,3 {50}{46}reina un fruto anaranjado.{4C}
+
+== P41
+@3,2 {51}{40}{4F}L{50}{43}{4D}a imagen de tu padre guía{4C}
+@6,7 {50}{43}{4D}tu mano y estimula{4C}
+@9,5 {50}{43}{4D}tu voluntad. {51}{40}{4F}E{50}{43}{4D}l fruto{4C}
+@12,4 {50}{43}{4D}se deja así recoger{4C}
+@15,11 {50}{43}{4D}fácilmente.{4C}
+
+== P42
+@3,2 {51}{40}{4F}U{50}{47}{4D}na banda{4C} de monos surge{4C}
+@7,16 {53}{40}a{52}{43}{4D}aa{4C}a{4C}
+@8,15 {53}{40}r{52}{40}r{53}{42}rr{52}{40}r{53}{42}r{4C}
+@9,8 {50}{47}de un {52}{43}b{53}{42}b{52}{43}b{52}{40}bb{52}{43}b{53}{42}b{52}{40}b{4C}
+@10,14 {53}{42}u{52}{40}u{52}{43}u{52}{40}uu{52}{43}u{52}{40}u{4C}
+@11,14 {52}{40}t{53}{40}s{52}{40}t{53}{42}s{52}{40}t{53}{42}s{52}{40}t{4C}
+@12,16 {50}{42}ooo{4C}
+@15,7 {50}{47}y salta sobre ti.{4C}
+
+== P43
+@3,5 {51}{40}{4F}L{50}{44}{4D}os días{4C} pasan,{4C}
+@5,4 {50}{44}idénticos, agotando tu{4C}
+@7,5 {50}{44}provisión de semillas.{4C}
+@9,6 {51}{40}{4E}P{50}{44}{4C}ronto tu cuerpo{4C}
+@11,3 {50}{44}se derrumba, perdido entre{4C}
+@13,5 {50}{44}el frío nocturno y{4C}
+@15,5 {50}{44}el calor diurno...{4C}
+
+== P44
+@2,19 {50}{43}alt{4C}
+@3,3 {51}{40}{4F}U{50}{43}{4D}n gran{4C} macho s{4C}
+@3,22 {50}{43}a hacia{4C}
+@5,3 {50}{43}tu garganta y te corta en{4C}
+@7,5 {50}{43}seco la vena yugular.{4C}
+@9,4 {51}{40}{4E}L{50}{43}{4C}a violencia de la jauría{4C}
+@11,5 {50}{43}solo iguala al precio{4C}
+@13,2 {50}{43}que aquí se da a la carne{4C}
+@15,11 {50}{43}humana...{4C}
+
+== P45
+@5,13 {51}{40}{4F}L{50}{45}os{4C}
+@8,8 {50}{45}{4F}animales{4C}
+@11,9 {50}{45}{4F}parecen{4C}
+@14,10 {50}{45}{4F}dudar{4D} ...{4C}
+
+== P46
+@4,7 {51}{40}{4F}E{50}{46}{4D}l animal{4C} cae{4C}
+@6,22 {54}{41}sp{4C}
+@7,2 {50}{46}y los demás se  {54}{41}d{50}{44} {54}{41}i{4C}
+@7,26 {54}{41}ers{4C}
+@8,19 {54}{41}a{50}{44} {54}{41}n{4C}
+@10,6 {50}{46}entre las rocas.{4C}
+@13,2 {51}{40}{4E}P{50}{46}{4C}uedes seguir tu camino.{4C}
+
+== P47
+@4,2 {51}{40}{4F}M{50}{46}{4D}{50}{44}{4C} {57}{40}a{4C}
+@4,14 {50}{46}largo tiempo.{4C}
+@5,7 {57}{40}r{4C}
+@6,8 {57}{40}c{4C}
+@6,14 {51}{40}{4E}L{50}{46}{4C}a vegetación,{4C}
+@7,9 {57}{40}h{4C}
+@8,10 {57}{40}a{4C}
+@8,14 {50}{46}por fin, es{4C}
+@9,11 {57}{40}s{4C}
+@10,14 {50}{46}menos escasa.{4C}
+@13,7 {51}{40}{4E}L{50}{46}{4C}a estepa de Hustarg{4C}
+@15,5 {50}{46}te ve alejarte...{4C}
+
+== X
+{#00}{#20}{#62}{#69}{#47}
+
+== O1
+@20,5 {50}{41}vuelves por donde viniste{4C}
+
+== O2
+@20,9 {50}{42}vas hacia el este{4C}
+
+== O3
+@19,12 {50}{43}atraviesas{4C}
+@21,9 el muro de llamas
+
+== O4
+@20,6 {50}{44}avanzas en la oscuridad{4C}
+
+== O5
+@20,8 {50}{45}esperas y observas{4C}
+
+== O6
+@19,10 {50}{47}intentas forzar{4C}
+@20,11 la cerradura
+@21,7 con un objeto sólido
+
+== O7
+@20,8 {50}{47}vuelves a la bruma{4C}
+
+== O8
+@20,14 {50}{41}esperas{4C}
+
+== O9
+@20,10 {50}{42}abres el ataúd{4C}
+
+== O10
+@20,10 {50}{43}abres la puerta{4C}
+
+== O11
+@19,12 {50}{44}te resistes{4C}
+@21,10 a esa atracción
+
+== O12
+@20,10 {50}{45}te dejas llevar{4C}
+
+== O13
+@20,9 {50}{47}sigues tu destino{4C}
+
+== O14
+@20,12 {50}{41}te acercas{4C}
+
+== O15
+@19,7 {50}{42}fijas en el cuerpo de{4C}
+@20,7 tu padre los miembros
+@21,7 hallados en la tumba
+
+== O16
+@19,8 {50}{43}te quedas impotente{4C}
+@20,6 ante el tronco mutilado
+@21,12 de tu padre
+
+== O17
+@19,10 {50}{44}te adentras en{4C}
+@20,9 la bruma comiendo
+@21,7 el fruto del sok-sok
+
+== O18
+@19,13 {50}{45}penetras{4C}
+@21,12 en la bruma
+
+== O19
+@20,7 {50}{47}enciendes tu antorcha{4C}
+
+== O20
+@19,8 {50}{41}disparas una flecha{4C}
+@21,8 a la segunda ranura
+
+== O21
+@19,8 {50}{42}coges una flecha y{4C}
+@20,13 la hundes
+@21,7 en la segunda ranura
+
+== O22
+@19,8 {50}{43}deslizas un escudo{4C}
+@21,7 en la primera ranura
+
+== O23
+@19,6 {50}{44}viertes el contenido de{4C}
+@20,8 la redoma de ácido
+@21,7 en la tercera ranura
+
+== O24
+@19,12 {50}{45}te diriges{4C}
+@21,5 hacia el origen del grito
+
+== O25
+@20,7 {50}{47}te quedas donde estás{4C}
+
+== O26
+@19,9 {50}{41}intentas a pesar{4C}
+@21,10 de todo dormir
+
+== O27
+@20,11 {50}{42}coges la flor{4C}
+
+== O28
+@19,8 {50}{43}coges el fruto con{4C}
+@20,9 la mano derecha,
+@21,7 pensando en tu padre
+
+== O29
+@19,8 {50}{44}coges el fruto con{4C}
+@20,8 la mano izquierda,
+@21,7 pensando en tu padre
+
+== O30
+@19,7 {50}{45}coges el fruto con la{4C}
+@20,6 mano derecha, pensando
+@21,6 en el poder del sok-sok
+
+== O31
+@19,7 {50}{47}coges el fruto con la{4C}
+@20,5 mano izquierda, pensando
+@21,6 en el poder del sok-sok
+
+== O32
+@19,7 {50}{41}coges el fruto con la{4C}
+@20,6 mano izquierda, con la
+@21,5 mente puesta en el futuro
+
+== O33
+@19,7 {50}{42}coges el fruto con la{4C}
+@20,7 mano derecha, con la
+@21,5 mente puesta en el futuro
+
+== O34
+@20,10 {50}{43}dejas la estepa{4C}
+
+== O35
+@19,11 {50}{44}vuelves bajo{4C}
+@20,12 la cúpula,
+@21,6 por el pasillo inferior
+
+== O36
+@20,8 {50}{45}reanudas tu camino{4C}
+
+== O37
+@19,13 {50}{47}esperas,{4C}
+@21,8 listo para combatir
+
+== O38
+@19,12 {50}{41}les tiendes{4C}
+@21,9 un poco de carne
+
+== O39
+@20,15 {50}{42}huyes{4C}
+
+== O40
+@19,8 {50}{43}disparas una flecha{4C}
+@21,10 al más cercano
+
+== O41
+@19,9 {50}{47}coges una piedra{4C}
+@21,5 y apuntas al más cercano
+
+== X
+{#00}

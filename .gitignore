@@ -1,0 +1,6 @@
+datos/
+salida/
+originales/*
+!originales/LEEME.md
+__pycache__/
+*.pyc

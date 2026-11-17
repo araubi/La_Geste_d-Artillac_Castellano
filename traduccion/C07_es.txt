@@ -1,0 +1,632 @@
+# Canto 7 de La Geste d'Artillac EN ESPAÑOL (traducción de Claude para araubi, 2026). Formato: tools/canto.py
+#canto 7
+
+== P1
+@3,5 {51}{40}{4F}Q{50}{43}{4D}uien cada instante{4C}
+@7,8 {50}{43}{4D}saborea el suspense{4C}
+@11,4 {51}{40}{4F}D{50}{43}{4D}e la vida desbroza más{4C}
+@15,11 {50}{43}{4D}de una fanega.{4C}
+
+== P2
+@3,3 {51}{40}{4F}E{50}{46}{4D}l suelo{4C} se hunde bajo tu{4C}
+@5,2 {50}{46}carrera y te deslizas por{4C}
+@7,4 {50}{46}un {50}{47}to{4C}
+@8,9 {50}{47}b{4C}
+@9,10 {50}{47}o{4C}
+@10,11 {50}{47}g{4C}
+@11,12 {50}{47}á{4C}
+@12,13 {50}{47}n{50}{46}.{4C}
+@13,2 {51}{40}{4E}D{50}{46}{4C}e pronto, una{4C}
+@13,19 {50}{46}punzada de{4C}
+@15,3 {50}{46}dolor te cruza el costado.{4C}
+
+== P3
+@4,2 {51}{40}{4F}E{50}{47}{4D}l suelo{4C} se hunde bajo tu{4C}
+@6,2 {50}{47}carrera y te deslizas por{4C}
+@8,2 {50}{47}un tobogán. {51}{40}{4E}D{50}{47}{4C}e pronto, tu{4C}
+@10,3 {52}{40}ant{4C}
+@10,9 {50}{47}se apaga y una{4C}
+@11,4 {53}{40}o{4C}
+@12,4 {53}{40}r{4C}
+@12,9 {50}{47}punzada de dolor{4C}
+@13,4 {53}{40}c{4C}
+@14,4 {53}{40}h{4C}
+@14,9 {50}{47}te hiere el costado.{4C}
+@15,4 {53}{40}a{4C}
+
+== P4
+@3,4 {51}{40}{4F}U{50}{42}{4D}n choque blando, con{4C}
+@7,5 {50}{42}{4D}un crujido sordo,{4C}
+@11,5 {50}{42}{4D}amortigua tu caída. {51}{40}{4F}E{50}{42}{4D}l{4C}
+@14,7 {51}{42}t{50}{42} {51}{42}e{50}{42} {51}{42}b{50}{42} {51}{42}a{4C}
+@15,2 {50}{42}{4D}suelo{4C} {51}{42}i{50}{42} {51}{42}m{50}{42} {51}{42}l{50}{42} {4D} bajo tus pies.{4C}
+
+== P5
+@3,3 {51}{40}{4F}U{50}{42}{4D}n golpe{4C} doloroso pone fin{4C}
+@5,2 {50}{42}a tu breve {51}{42}c{4C}
+@6,14 {51}{42}a{4C}
+@7,15 {51}{42}í{4C}
+@8,16 {51}{42}d{4C}
+@9,17 {51}{42}a{50}{42}. {51}{40}{4E}R{50}{42}{4C}ecobras{4C}
+@11,4 {50}{42}a duras penas el sentido,{4C}
+@13,3 {50}{42}ante dos ojos rojos que{4C}
+@15,4 {50}{42}relucen en la oscuridad.{4C}
+
+== P6
+@3,5 {51}{40}{4F}L{50}{45}{4D}a trampilla{4C} se cierra{4C}
+@6,3 {50}{45}sobre una nueva víctima.{4C}
+@9,3 {51}{40}{4E}E{50}{45}{4C}n este universo reducido,{4C}
+@12,3 {50}{45}tu vida, poco a poco, se{4C}
+@15,6 {50}{45}apaga sin ruido...{4C}
+
+== P7
+@2,21 {51}{47}c{4C}
+@2,23 {51}{47}í{4C}
+@2,25 {51}{47}r{4C}
+@3,2 {51}{40}{4F}D{50}{46}{4D}os grandes{4C}
+@4,15 {50}{46}invaden{4C}
+@4,27 {51}{47}c{4C}
+@5,4 {51}{40}{4E}P{50}{45}{4C}âa el{4C}
+@6,22 {50}{46}tu{4C}
+@6,29 {51}{47}u{4C}
+@7,3 {53}{40}i{4C}
+@8,2 {52}{40}p{4C}
+@8,4 {52}{40}t{4C}
+@8,6 {53}{40}n{4C}
+@8,9 {50}{45}gigante{4C}
+@8,20 {50}{46}cerebro{4C}
+@8,29 {51}{47}l{4C}
+@9,5 {53}{40}ó{4C}
+@10,17 {51}{47}s{4C}
+@10,19 {50}{46}embotado.{4C}
+@10,29 {51}{47}o{4C}
+@11,3 {50}{45}olvidará el{4C}
+@12,19 {51}{47}o{4C}
+@12,27 {51}{47}s{4C}
+@13,3 {50}{45}hambre durante{4C}
+@14,21 {51}{47}j{4C}
+@14,23 {51}{47}o{4C}
+@14,25 {51}{47}r{4C}
+@15,2 {50}{45}algún tiempo...{4C}
+
+== P8
+@3,5 {51}{40}{4F}A{50}{47}{4D}hora{4C} debes resistir{4C}
+@6,2 {50}{47}el entumecimiento para{4C}
+@9,4 {50}{47}combatir a la enorme{4C}
+@11,4 {52}{40}{4E}e{4C}
+@11,12 {52}{40}{4E}e{4C}
+@12,2 {52}{40}{4E}s{4C}
+@12,6 {52}{40}{4E}r{4C}
+@12,10 {52}{40}{4E}i{4C}
+@12,14 {52}{40}{4E}n{4C}
+@12,18 {52}{40}{4E}e{50}{47}{4C} que se{4C}
+@13,8 {52}{40}{4E}p{4C}
+@13,16 {52}{40}{4E}t{4C}
+@15,8 {50}{47}dispone a tragarte.{4C}
+
+== P9
+@3,5 {51}{40}{4F}C{50}{45}{4D}abalgas{4C}, en el fondo{4C}
+@6,4 {50}{45}de una honda fosa, una{4C}
+@8,14 {52}{40}{4E}e{4C}
+@8,22 {52}{40}{4E}e{4C}
+@9,3 {50}{45}inmensa  {52}{40}{4E}s{4C}
+@9,16 {52}{40}{4E}r{4C}
+@9,20 {52}{40}{4E}i{4C}
+@9,24 {52}{40}{4E}n{4C}
+@9,28 {52}{40}{4E}e{4C}
+@10,18 {52}{40}{4E}p{4C}
+@10,26 {52}{40}{4E}t{4C}
+@12,4 {50}{45}que expira, las vértebras{4C}
+@15,12 {50}{45}rotas.{4C}
+
+== P10
+@4,6 {51}{40}{4F}P{50}{42}{4D}âa{50}{44}{4C} {50}{42}el{50}{44} {53}{40}{4E}p{4C}
+@4,22 {53}{40}{4E}n{4C}
+@5,16 {50}{43}{4E}i{4C}
+@5,20 {50}{43}{4E}ó{4C}
+@6,18 {53}{40}{4E}t{4C}
+@10,12 {50}{43}p{53}{40}a{50}{43}n{53}{40}t{50}{43}e{53}{40}r{50}{43}a{4C}
+@14,4 {50}{42}te golpea con la cabeza.{4C}
+
+== P11
+@5,7 {51}{40}{4F}S{50}{47}{4D}ales vencedor{4C}
+@9,15 {50}{47}{4D}del{4C}
+@13,13 {50}{47}{4D}combate.{4C}
+
+== P12
+@3,18 {50}{47}g g g{4C}
+@4,2 {51}{40}{4F}L{50}{46}{4D}anzas{4C} tu{50}{47}      a a a  {50}{46}hacia{4C}
+@5,18 {50}{47}r r r{4C}
+@6,2 {50}{46}el único lugar{4C}
+@6,19 {50}{47}f f{4C}
+@7,19 {50}{47}i i{4C}
+@8,4 {50}{46}accesible.{4C}
+@8,20 {50}{47}o{4C}
+@10,3 {51}{40}{4E}S{50}{46}{4C}e engancha y{4C}
+@12,3 {50}{46}sales rápidamente{4C}
+@14,11 {50}{46}de la fosa.{4C}
+
+== P13
+@2,34 {50}{41}{4D}3 0{4C}
+@3,2 {51}{40}{4F}L{50}{42}{4D}legas{4C}, por el pasillo{4C}
+@5,2 {50}{42}situado al nordeste, a una{4C}
+@8,12 {53}{41}red{4C}
+@9,4 {50}{42}sala{50}{41}   {53}{41}o{4C}
+@9,15 {53}{41}o{50}{42}, donde suena{4C}
+@10,11 {53}{41}n{4C}
+@10,15 {53}{41}n{4C}
+@11,11 {53}{41}d{4C}
+@11,15 {53}{41}d{4C}
+@12,12 {53}{41}aaa{4C}
+@14,6 {50}{42}la Voz de la Gesta...{4C}
+
+== P14
+@3,13 {51}{40}{4F}A{50}{42}{4C}bajo,{4C}
+@7,4 {50}{42}un ancho {52}{41}{4E}pasillo{4C}
+@11,12 {50}{42}se hunde{4C}
+@15,8 {50}{42}en la penumbra.{4C}
+
+== P15
+@3,4 {51}{40}{4F}T{50}{46}{4D}e hallas{4C} en una{4C}
+@6,6 {50}{46}galería de cuadros.{4C}
+@9,3 {51}{40}{4E}U{50}{46}{4C}na placa, esculpida en{4C}
+@12,8 {50}{46}el muro, anuncia:{4C}
+@16,4 {51}{44}{4D} pasillo de las huellas {50}{46}{4C}.{4C}
+
+== P16
+@2,34 {50}{41}{4D}3 0{4C}
+@3,3 {51}{40}{4F}C{50}{43}{4D}omo{4C} lo describe el autor{4C}
+@5,9 {51}{43}Bre{4C}
+@6,5 {50}{43}del{4C}
+@6,9 {51}{43}via{50}{43},{4C}
+@6,15 {50}{43}llegas{4C}
+@7,9 {51}{43}rio{4C}
+@9,5 {50}{43}a una sala redonda,{4C}
+@12,6 {50}{43}por el pasillo situado{4C}
+@15,7 {50}{43}al noroeste...{4C}
+
+== P17
+@2,34 {50}{41}{4D}3 1{4C}
+@3,5 {51}{40}{4F}L{50}{47}{4D}os cuadros hablan{4C}
+@7,12 {54}{47}{4D}jo{4C}
+@7,17 {54}{47}{4D}jo{4C}
+@8,12 {50}{47}  {4C}
+@8,15 {50}{47} {4C}
+@8,17 {50}{47}   {4C}
+@9,4 {50}{47}{4D}a tus  {54}{47}o{50}{47}{4C}  {54}{47}{4D}s{50}{47}{4C} {54}{47}{4D}o{50}{47}{4C}  {54}{47}{4D}s{50}{47} {50}{41} {50}{47}tanto{4C}
+@11,12 {54}{47}{4D}jo{4C}
+@11,17 {54}{47}{4D}jo{4C}
+@15,6 {50}{47}{4D}como a tus oídos...{4C}
+
+== P18
+@4,4 {51}{40}{4F}U{50}{42}{4D}na leve{4C} luz, que{4C}
+@6,3 {50}{42}parece brotar del {51}{47}{4E}muro{50}{42}{4C},{4C}
+@7,21 {51}{47}{4E}muro{4C}
+@8,2 {50}{42}ilumina el pasillo{4C}
+@10,4 {50}{42}que baja y luego gira{4C}
+@12,9 {50}{42}bruscamente en{4C}
+@14,6 {50}{42}la dirección opuesta.{4C}
+
+== P19
+@4,4 {51}{40}{4F}U{50}{42}{4D}na leve{4C} luz, que{4C}
+@6,3 {50}{42}parece brotar del {51}{47}{4E}muro{50}{42}{4C},{4C}
+@7,21 {51}{47}{4E}muro{4C}
+@8,2 {50}{42}ilumina el pasillo{4C}
+@10,4 {50}{42}que baja y luego gira{4C}
+@12,9 {50}{42}bruscamente en{4C}
+@14,6 {50}{42}la dirección opuesta.{4C}
+
+== P20
+@3,4 {51}{40}{4F}P{50}{43}{4D}equeños{4C} fuegos fatuos,{4C}
+@5,4 {50}{43}aparentemente inofensivos,{4C}
+@7,2 {50}{43}surgen en el pasillo,{4C}
+@9,3 {50}{43}que termina{4C}
+@9,19 {54}{42}escalera{4C}
+@10,20 {54}{42}escalera{4C}
+@11,2 {50}{43}un poco más allá,{4C}
+@11,21 {54}{42}escalera{4C}
+@12,22 {54}{42}escaler{4C}
+@13,9 {50}{43}al pie de una{4C}
+@13,23 {54}{42}escale{4C}
+@14,24 {54}{42}escal{4C}
+@15,3 {50}{43}de pocos peldaños.{4C}
+@15,25 {54}{42}esca{4C}
+
+== P21
+@3,4 {51}{40}{4F}E{50}{42}{4D}l suelo{4C} exhala de{4C}
+@5,3 {50}{42}pronto vapores y la amnesia{4C}
+@7,10 {50}{42}te sorprende.{4C}
+@9,5 {51}{40}{4E}S{50}{42}{4C}olo los {51}{44}{4E}Dioses{50}{42}{4C}{4C}
+@11,8 {50}{42}serán testigos de{4C}
+@13,4 {50}{42}la larga errancia de un{4C}
+@15,4 {50}{42}cuerpo sin memoria...{4C}
+
+== P22
+@3,4 {51}{40}{4F}E{50}{42}{4D}l pasillo{4C} te deja,{4C}
+@5,2 {50}{42}diez metros más allá, ante{4C}
+@7,5 {50}{42}el pórtico de una sala{4C}
+@9,3 {50}{42}llena de una bruma verde{4C}
+@11,9 {50}{42}y opaca.{4C}
+@12,20 {54}{47}g{4C}
+@13,5 {51}{40}{4E}N{50}{42}{4C}o ves ni{50}{45}    {54}{47}o{54}{45} {54}{47}o{4C}
+@14,19 {54}{47}t{54}{45} {54}{47}t{4C}
+@15,20 {54}{47}a{50}{45} {50}{42}.{4C}
+
+== P23
+@3,2 {51}{40}{4F}T{50}{45}{4D}ras la curva{4C} llegas{4C}
+@5,4 {50}{45}ante una puerta de hierro{4C}
+@7,4 {50}{45}con una imponente{4C}
+@9,14 {50}{47}ccc{4C}
+@10,13 {50}{47}e   e{4C}
+@11,14 {50}{47}r r{4C}
+@12,14 {50}{47}r r{4C}
+@13,14 {50}{47}a dd{4C}
+@14,14 {50}{47}u  r{4C}
+@15,14 {50}{47}aaaa{50}{45}.{4C}
+
+== P24
+@3,2 {51}{40}{4F}P{50}{43}{4D}ronto llegas{4C} al final{4C}
+@5,2 {50}{43}del pasillo.{51}{40}{4E}U{50}{43}{4C}na {50}{47}e{4C}
+@6,20 {50}{47}s{4C}
+@7,21 {50}{47}c{4C}
+@8,22 {50}{47}a{4C}
+@9,23 {50}{47}l{4C}
+@10,24 {50}{47}e{4C}
+@11,25 {50}{47}r{4C}
+@12,26 {50}{47}a{4C}
+@14,5 {50}{43}te invita a bajar.{4C}
+
+== P25
+@3,2 {51}{40}{4F}T{50}{42}{4D}u pie{4C} activa de pronto{4C}
+@5,3 {50}{42}un mecanismo y la escalera{4C}
+@7,2 {50}{42}se vuelve tobogán. {51}{40}{4E}U{50}{42}{4C}nas{4C}
+@9,2 {50}{42}cuchillas brotan a tu lado,{4C}
+@11,2 {50}{42}pero tu sangre hace aún{4C}
+@13,3 {50}{42}más embriagadora la{4C}
+@13,23 {51}{44}b{4C}
+@14,24 {51}{44}a{4C}
+@15,25 {51}{44}jada{50}{42}.{4C}
+
+== P26
+@5,8 {51}{40}{4F}U{50}{46}{4D}na vez{4C} arriba,{4C}
+@8,7 {50}{46}te ves bloqueado por{4C}
+@11,6 {50}{46}una{50}{47}  {51}{47}puerta{50}{47}  {50}{46}de piedra.{4C}
+@12,11 {51}{47}puerta{4C}
+@13,11 {51}{47}puerta{4C}
+@14,11 {51}{47}puerta{4C}
+@15,11 {51}{47}puerta{4C}
+
+== P27
+@3,14 {51}{40}{4F}N{50}{47}o{4C}
+@9,7 {50}{47}{4F}consigues{4C}
+@15,8 {50}{47}{4F}abrirla{4D}.{4C}
+
+== P28
+@4,4 {51}{40}{4F}U{50}{43}{4D}na flecha{4C} de oro, venida{4C}
+@8,6 {50}{43}del techo, vuela recta{4C}
+@12,10 {50}{43}hacia tu  {53}{40}ttttt{4C}
+@13,21 {54}{47}e{50}{43} {54}{47}e{4C}
+@14,22 {57}{41}s{4C}
+@15,22 {51}{47}t{4C}
+@16,22 {51}{47}a{50}{43} .{4C}
+
+== P29
+@2,6 {51}{40}{4F}T{50}{46}{4D}us nervios{4C} oculares{4C}
+@4,4 {50}{46}llevan una última visión{4C}
+@6,5 {50}{46}a tu cerebro, fulminado{4C}
+@8,3 {50}{46}por la llave: una espina{4C}
+@10,2 {50}{46}de luz bajo los{4C}
+@10,23 {55}{44}a{50}{44} {57}{45}a{4C}
+@11,24 {53}{44}s{4C}
+@12,3 {50}{46}pétalos de una{4C}
+@12,21 {57}{45}a{50}{44} {53}{45}o{51}{44}o{53}{45}o{50}{44} {55}{44}a{4C}
+@13,22 {53}{44}s{51}{44}o{55}{42}r{51}{44}o{53}{44}s{4C}
+@14,21 {55}{44}a{50}{44} {53}{45}o{51}{44}o{53}{45}o{50}{44} {57}{45}a{4C}
+@15,24 {53}{44}s{4C}
+@16,7 {50}{46}inmortal...{4C}
+@16,23 {57}{45}a{50}{44} {55}{44}a{4C}
+
+== P30
+@3,2 {51}{40}{4F}L{50}{43}{4D}a flecha,{4C} una extraña{4C}
+@5,3 {50}{43}llave de oro con la punta{4C}
+@7,2 {50}{43}afilada como una aguja, se{4C}
+@9,2 {50}{43}clava en tu escudo.{4C}
+@11,3 {51}{40}{4E}L{50}{43}{4C}a sacas y la guardas en{4C}
+@13,5 {50}{43}tu saco. {51}{40}{4E}N{50}{43}{4C}o puedes{4C}
+@15,8 {50}{43}abrir la puerta.{4C}
+
+== P31
+@3,3 {51}{40}{4F}E{50}{41}{4D}squivas{4C} la flecha, pero{4C}
+@5,4 {50}{41}caes por la    {57}{40}e{4C}
+@6,20 {57}{40}s{4C}
+@7,21 {57}{40}c{4C}
+@8,22 {57}{40}a{4C}
+@9,23 {57}{40}l{4C}
+@10,3 {51}{40}{4E}E{50}{41}{4C}n la oscuridad,{4C}
+@10,24 {57}{40}e{4C}
+@11,25 {57}{40}r{4C}
+@12,6 {50}{41}tu cabeza choca{4C}
+@12,26 {57}{40}a{50}{41}.{4C}
+@14,3 {50}{41}contra algo duro...{4C}
+
+== P32
+@4,2 {51}{40}{4F}L{50}{41}{4D}a Gesta{4C} ha perdido a su{4C}
+@6,5 {50}{41}Héroe. {51}{40}{4E}S{50}{41}{4C}olo la{4C}
+@8,5 {50}{41}resurrección permitirá{4C}
+@10,3 {50}{41}cantar de nuevo la epopeya{4C}
+@12,13 {50}{41}de{4C}
+@14,5 {51}{47}{4F}H{4D}énerim d'{4F}A{4D}rtillac{50}{41}{4C}...{4C}
+
+== P33
+@3,22 {57}{40}err{4C}
+@4,4 {51}{40}{4F}L{50}{42}{4D}a puerta{4C} y su{4C}
+@4,21 {57}{40}c{4C}
+@4,25 {57}{40}a{4C}
+@5,21 {57}{40}c{4C}
+@5,25 {57}{40}a{4C}
+@6,22 {57}{40}e{4C}
+@6,24 {57}{40}d{4C}
+@7,22 {57}{40}e{4C}
+@7,24 {57}{40}d{4C}
+@8,7 {50}{42}parecen{4C}
+@8,22 {57}{40}e{4C}
+@8,24 {57}{40}d{4C}
+@9,22 {57}{40}e{4C}
+@9,24 {57}{40}dura{4C}
+@10,22 {57}{40}e{4C}
+@10,26 {57}{40}a{4C}
+@11,22 {57}{40}radura{4C}
+@12,8 {50}{42}burlarse de ti...{4C}
+
+== P34
+@4,6 {51}{40}{4F}U{50}{41}{4D}n dardo{4C} brota de{4C}
+@6,17 {50}{47}err{4C}
+@7,16 {50}{47}c   a{4C}
+@8,10 {50}{41}la{4C}
+@8,16 {50}{47}c   a{4C}
+@9,17 {50}{47}e d{4C}
+@10,17 {50}{47}e d{4C}
+@11,10 {50}{41}y{4C}
+@11,17 {50}{47}e d{4C}
+@12,17 {50}{47}e dura{4C}
+@13,17 {50}{47}e   a{4C}
+@14,5 {50}{41}te hiere.{4C}
+@14,17 {50}{47}radura{4C}
+
+== P35
+@4,8 {51}{40}{4F}L{50}{43}{4D}a{4C}  {51}{43}{4F}puerta{4C}
+@6,13 {51}{43}{4F}puerta{4C}
+@8,13 {51}{43}{4F}puerta{4C}
+@10,13 {51}{43}{4F}puerta{4C}
+@12,14 {50}{43}resiste a{4C}
+@15,13 {50}{43}tu asalto.{4C}
+
+== P36
+@3,3 {50}{46}{4D}¿{51}{40}{4F}Y{50}{46}{4D} qué dirección{4C}
+@8,5 {50}{46}{4D}elegirás como{4C}
+@12,13 {50}{46}{4D}i{4C}
+@12,15 {50}{47}{4D}z{4C}
+@13,11 {50}{44}{4D}r{4C}
+@13,17 {50}{45}{4D}o{4C}
+@14,10 {50}{45}{4D}o{4C}
+@14,18 {50}{41}{4D}n{4C}
+@15,9 {50}{41}{4D}h{4C}
+@15,19 {50}{44}{4D}te {50}{46}?{4C}
+
+== P37
+@3,4 {51}{40}{4F}D{50}{44}{4D}etrás de ti,{4C} un muro de{4C}
+@6,4 {53}{47}l{4C}
+@6,6 {53}{47}a{4C}
+@6,9 {53}{47}ss{4C}
+@7,4 {53}{41}ll{4C}
+@7,7 {53}{41}m{4C}
+@7,9 {53}{41}a{4C}
+@8,4 {51}{43}l{53}{41}l{4C}
+@8,7 {53}{41}mm{51}{43}a{4C}
+@9,5 {51}{43}l{53}{46}a{51}{46}m{51}{43}m{4C}
+@9,13 {50}{44}se ha alzado y{4C}
+@10,6 {51}{46}as{4C}
+@15,2 {50}{44}parece cerrar toda retirada.{4C}
+
+== P38
+@2,34 {50}{41}{4D}3 1{4C}
+@4,5 {51}{40}{4F}C{50}{46}{4D}omo{4C} en el Misal,{4C}
+@6,3 {50}{46}la luna se refleja, {50}{47} {54}{47}pul{4C}
+@7,23 {54}{47}ú{4C}
+@7,27 {54}{47}a{4C}
+@8,3 {50}{46}a través de la{4C}
+@8,22 {54}{47}c{50}{46},{4C}
+@10,6 {50}{46}en los lienzos de una{4C}
+@12,4 {50}{46}galería, cerrada más allá{4C}
+@14,5 {50}{46}por una puerta...{4C}
+
+== P39
+@3,3 {51}{40}{4F}E{50}{47}{4D}n tu blasón, ¡ninguna{4C}
+@7,6 {50}{47}{4D}salamandra, Hénerim!{4C}
+@11,5 {51}{40}{4F}P{50}{47}{4D}ero, quizá, dentro de{4C}
+@15,2 {50}{47}{4D}un instante, cual Fénix...{4C}
+
+== P40
+@4,13 {51}{40}{4F}D{50}{43}{4D}e nuevo{4C}
+@9,15 {50}{43}{4D}bajo la{4C}
+@14,15 {50}{43}{4D}cúpula.{4C}
+
+== P41
+@4,3 {51}{40}{4F}D{50}{46}{4D}e pronto{4C} tienes ganas{4C}
+@6,7 {50}{46}de dormir. {51}{40}{4E}J{50}{46}{4C}uzgas{4C}
+@8,7 {50}{46}prudente volver{4C}
+@10,8 {50}{46}a toda prisa bajo{4C}
+@12,10 {50}{46}la{4C}
+@12,16 {54}{46}pul{4C}
+@13,15 {54}{46}ú{4C}
+@13,19 {54}{46}a{50}{46}.{4C}
+@14,14 {54}{46}c{4C}
+
+== P42
+@3,3 {51}{40}{4F}T{50}{44}{4D}e hundes{4C} en el abismo{4C}
+@6,2 {50}{44}negro del sueño. {51}{40}{4E}E{50}{44}{4C}l Destino{4C}
+@9,2 {50}{44}te confundió con la {56}{41}Bella{4C}
+@12,2 {56}{41}Durmiente{50}{44}, pero es{4C}
+@15,7 {50}{44}para la eternidad...{4C}
+
+== P43
+@3,11 {51}{40}{4F}Y{50}{47}{4D}a  estás{4C}
+@7,13 {50}{47}{4D}bajo la{4C}
+@9,16 {54}{47}c{4C}
+@10,14 {54}{47}ú{4C}
+@10,18 {54}{47}ú{4C}
+@11,12 {54}{47}p{4C}
+@11,20 {54}{47}p{4C}
+@12,10 {54}{47}u{4C}
+@12,22 {54}{47}u{4C}
+@13,8 {54}{47}l{4C}
+@13,24 {54}{47}l{4C}
+@14,8 {54}{47}a{4C}
+@14,24 {54}{47}a{50}{47}.{4C}
+
+== P44
+@3,4 {51}{40}{4F}U{50}{43}{4D}n punto{4C} brillante atrae{4C}
+@5,6 {50}{43}tu atención. {51}{40}{4E}T{50}{43}{4C}e{4C}
+@7,4 {50}{43}inclinas y descubres en{4C}
+@9,4 {50}{43}las entrañas del monstruo{4C}
+@11,8 {50}{43}una pequeña{4C}
+@11,23 {54}{47}rr{4C}
+@12,23 {57}{44}ee{4C}
+@13,10 {50}{43}marcada{4C}
+@13,22 {57}{44}d  d{4C}
+@14,22 {57}{44}o  o{4C}
+@15,3 {50}{43}"ácido concentrado".{4C}
+@15,23 {57}{44}ma{4C}
+
+== X
+{#00}{#00}{#00}{#00}{#00}{#88}{#00}{#00}{#88}{#23}{#23}{#00}
+
+== O1
+@20,7 {50}{41}enciendes tu antorcha{4C}
+
+== O2
+@20,9 {50}{42}exploras la fosa{4C}
+
+== O3
+@20,6 {50}{43}combates con la espada{4C}
+
+== O4
+@19,13 {50}{44}combates{4C}
+@21,7 con la maza de armas
+
+== O5
+@19,13 {50}{47}combates{4C}
+@21,7 con la maza de plata
+
+== O6
+@19,13 {50}{45}combates{4C}
+@21,11 con el escudo
+
+== O7
+@19,13 {50}{46}combates{4C}
+@21,11 a puño limpio
+
+== O8
+@19,13 {50}{43}combates{4C}
+@21,11 con tu muleta
+
+== O9
+@19,9 {50}{44}lanzas tu garfio{4C}
+@21,8 para intentar subir
+
+== O10
+@19,14 {50}{45}avanzas{4C}
+@21,10 por el pasillo
+
+== O11
+@20,10 {50}{46}avanzas deprisa{4C}
+
+== O12
+@19,14 {50}{47}avanzas{4C}
+@21,7 admirando los cuadros
+
+== O13
+@18,12 {50}{43}Te diriges{4C}
+@20,10 hacia el oeste.
+
+== O14
+@19,12 {50}{45}te diriges{4C}
+@21,11 hacia el este
+
+== O15
+@19,9 {50}{47}te diriges hacia{4C}
+@20,6 el norte por el pasillo
+@21,8 situado al nordeste
+
+== O16
+@19,14 {50}{42}vuelves{4C}
+@21,10 sobre tus pasos
+
+== O17
+@20,9 {50}{45}bajas la escalera{4C}
+
+== O18
+@19,8 {50}{47}tanteas con el pie{4C}
+@21,11 cada peldaño
+
+== O19
+@20,9 {50}{43}subes la escalera{4C}
+
+== O20
+@19,12 {50}{41}la desvías{4C}
+@21,10 de un espadazo
+
+== O21
+@19,12 {50}{44}te proteges{4C}
+@21,11 con el escudo
+
+== O22
+@19,16 {50}{46}das{4C}
+@21,10 un salto atrás
+
+== O23
+@19,15 {50}{45}abres{4C}
+@21,8 con la llave de oro
+
+== O24
+@19,7 {50}{46}viertes el contenido{4C}
+@20,11 de la redoma
+@21,5 de ácido en la cerradura
+
+== O25
+@19,7 {50}{47}fuerzas la cerradura{4C}
+@21,5 con la punta de tu espada
+
+== O26
+@19,7 {50}{41}fuerzas la cerradura{4C}
+@20,14 con la
+@21,8 punta de una flecha
+
+== O27
+@19,13 {50}{45}la hundes{4C}
+@21,7 de un golpe de hombro
+
+== O28
+@20,13 {50}{41}insistes{4C}
+
+== O29
+@19,9 {50}{43}te diriges hacia{4C}
+@20,6 el norte por el pasillo
+@21,8 situado al noroeste
+
+== O30
+@19,12 {50}{41}atraviesas{4C}
+@21,9 el muro de llamas
+
+== O31
+@19,14 {50}{45}avanzas{4C}
+@21,5 a tientas entre la bruma
+
+== O32
+@20,5 {50}{47}te encantan las sorpresas{4C}
+
+== O33
+@20,10 {50}{42}abres la puerta{4C}
+
+== X
+{#20}{#00}{#00}{#00}

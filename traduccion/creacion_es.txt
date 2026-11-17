@@ -1,0 +1,89 @@
+# Textos de creacion EN ESPAÑOL (traducción de Claude para araubi, 2026) de La Geste d'Artillac (9BD3h-9EF5h). Formato: tools/motor_textos.py
+
+== l9bd3h
+@5,3 {4F}{43}H{4E}{44}ENERIM
+@8,3 {4C}{45}según
+@9,15 {4F}{43}1{4C}{45}. la {4F}G{4E}ESTA
+@12,15 {4F}{43}2{4C}{45}. tus {4E}gustos
+@16,3 {4F}{43}3{4C}{45}. {4E}regreso{4C} al FUTURO
+
+== l9c4bh
+@2,1 {4C}{45}astuto
+@2,31 poderoso
+@20,1 fuerte
+@20,29 equilibrado
+@3,17 {43}fuerza
+@4,16 destreza
+@5,17 suerte
+@6,14 inteligencia
+@7,16 voluntad
+@8,16 carisma
+@9,15 habilidad
+@10,16 defensa
+@12,17 {43}fuerza
+@13,16 destreza
+@14,17 suerte
+@15,14 inteligencia
+@16,16 voluntad
+@17,16 carisma
+@18,15 habilidad
+@19,16 defensa
+@10,5 {4F}1
+@13,5 2
+@10,33 3
+@13,33 4
+
+== l9d50h
+@22,2 {45}{4C}¿Eres    :{43}
+@22,14 (E)xperto -  (N)ovato  ?
+
+== l9d7fh
+@23,2 {45}{4C}¿En marcha:{43}
+@23,14 (S)í      -  (N)o      ?
+
+== l9daeh abierta
+@6,2 |
+
+== l9db1h
+{44}{4D}HENERIM
+
+== l9dbdh
+@17,2 |
+
+== l9dc1h
+@6,31 |
+
+== l9dc5h
+@17,31 |
+
+== l9dc9h abierta
+{#02}{#04}{#08}{#05}
+
+== l9dcdh abierta
+{#02}{#0F}{#08}{#10}
+
+== l9dd1h abierta
+@-59,-27 {#05}
+
+== l9dd5h abierta
+@-48,-27 {#10}
+
+== l9dd9h
+@2,12 {44}{4F}H{4D}énerim d'{4F}A{4D}rtillac
+@4,4 {4D}{45}F{4C}{43}uerza
+@6,4 {4D}{45}D{4C}{43}estreza
+@8,4 {4D}{45}S{4C}{43}uerte
+@10,4 {4D}{45}I{4C}{43}nteligencia
+@12,4 {4D}{45}V{4C}{43}oluntad
+@14,4 {4D}{45}C{4C}{43}arisma
+@16,4 {4D}{45}H{4C}{43}abilidad
+@18,4 {4D}{45}D{4C}{43}efensa
+
+== l9e9bh
+@8,9 {44}{4C}prepara la {41}CASETE
+@9,20 C    E
+@10,20 C S TE
+@11,20 C    E
+@12,20 CASETE
+@16,10 {4F}{46}LIMINAR
+
